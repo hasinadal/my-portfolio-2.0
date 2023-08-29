@@ -2,8 +2,33 @@
 import HeroImage from "../Assets/Images/me/TZ.webp";
 
 // //About Section
-// import AboutImage from "../Assets/Images/About/about_img.webp";
+import AboutImage from "../Assets/Images/me/tbz.webp";
 // import locationMap from "../Assets/Images/About/locationMap.webp";
+
+// Tools Section
+import PhotoshopLogo from "../Assets/Images/tools-icons/adobe-photoshop.svg";
+import IllustratorLogo from "../Assets/Images/tools-icons/adobe-illustrator.svg";
+import AdobeXdLogo from "../Assets/Images/tools-icons/adobe-xd.svg";
+import FigmaLogo from "../Assets/Images/tools-icons/figma.svg";
+import VisualStudioLogo from "../Assets/Images/tools-icons/visual-studio.svg";
+import GithubLogo from "../Assets/Images/tools-icons/github.svg";
+
+// Technologies Section
+import ReactIcon from "../Assets/Images/technologies-icons/react-js-icon.svg";
+import ReduxIcon from "../Assets/Images/technologies-icons/redux-icon.svg";
+import GraphQLIcon from "../Assets/Images/technologies-icons/graphql-icon.svg";
+import HtmlIcon from "../Assets/Images/technologies-icons/html-icon.svg";
+import CssIcon from "../Assets/Images/technologies-icons/css-icon.svg";
+import SaasIcon from "../Assets/Images/technologies-icons/sass-icon.svg";
+import LessIcon from "../Assets/Images/technologies-icons/less-icon.svg";
+import MuiIcon from "../Assets/Images/technologies-icons/MUI.svg";
+import BootstrapIcon from "../Assets/Images/technologies-icons/bootstrap-5-icon.svg";
+import MySqlIcon from "../Assets/Images/technologies-icons/mysql-icon.svg";
+import JsonIcon from "../Assets/Images/technologies-icons/json-icon.svg";
+import JavaScriptIcon from "../Assets/Images/technologies-icons/javascript-icon.svg";
+import TypescriptIcon from "../Assets/Images/technologies-icons/typescript-icon.svg";
+import AxiosIcon from "../Assets/Images/technologies-icons/axios-icon.svg";
+import JqueryIcon from "../Assets/Images/technologies-icons/jquery-icon.svg";
 
 // // Brands Section
 // import brand1 from "../Assets/Images/Brands/tzapp.webp";
@@ -245,8 +270,31 @@ const ImageHelper = {
   HeroImage,
 
   // //About Section
-  // AboutImage,
+  AboutImage,
   // locationMap,
+
+  PhotoshopLogo,
+  IllustratorLogo,
+  AdobeXdLogo,
+  FigmaLogo,
+  VisualStudioLogo,
+  GithubLogo,
+
+  ReactIcon,
+  ReduxIcon,
+  GraphQLIcon,
+  HtmlIcon,
+  CssIcon,
+  SaasIcon,
+  LessIcon,
+  MuiIcon,
+  BootstrapIcon,
+  MySqlIcon,
+  JsonIcon,
+  JavaScriptIcon,
+  TypescriptIcon,
+  AxiosIcon,
+  JqueryIcon,
 
   // // Brands Section
   // brand1,

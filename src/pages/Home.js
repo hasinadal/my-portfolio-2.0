@@ -1,13 +1,21 @@
 import React from "react";
+import AboutSection from "../components/AboutSection/AboutSection";
 import HeroSection from "../components/HeroSection/HeroSection";
-import Footer from "../layouts/Footer";
-import Header from "../layouts/Header";
+import SkillsSection from "../components/SkillsSection/SkillsSection";
+import TechnologiesSection from "../components/TechnologiesSection/TechnologiesSection";
+import ToolsSection from "../components/ToolsSection/ToolsSection";
+import Footer from "../layouts/Footer/Footer";
+import Header from "../layouts/Header/Header";
 
 const Home = () => {
   return (
     <div>
       <Header />
       <HeroSection />
+      <AboutSection />
+      <SkillsSection />
+      <ToolsSection />
+      <TechnologiesSection />
       <Footer />
     </div>
   );

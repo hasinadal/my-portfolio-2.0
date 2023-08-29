@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 
 import Lottie from "react-lottie";
 import PageNotFoundAnimation from "../Assets/LottieFiles/404-animation.json";
-import Footer from "../layouts/Footer";
-import Header from "../layouts/Header";
+import Footer from "../layouts/Footer/Footer";
+import Header from "../layouts/Header/Header";
 
 const NoPageFound = () => {
   document.title = "404 - Page Not Found | TZ Creation";

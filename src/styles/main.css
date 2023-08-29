@@ -4681,3 +4681,12 @@ dl.accordion.time-line:before {
 }
 
 /* Back to top buttton ends */
+
+#nav-menu-container {
+  width: 40%;
+}
+
+#nav-menu-container .nav-menu.nav-menu-right {
+  display: flex;
+  justify-content: end;
+}

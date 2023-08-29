@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import Modal from "react-bootstrap/Modal";
 // import ReactCSSTransitionGroup from "react-transition-group";
 import { TransitionGroup } from "react-transition-group";
+import NavigationLink from "../../../sharedComponents/NavigationLink";
+import { NavLinkData } from "../NavBarData";
 
 export const MobileMenuModal = (props) => {
   const { show, handleClose } = props;
@@ -26,21 +28,13 @@ export const MobileMenuModal = (props) => {
             }}
           >
             <ul className="" style={{ touchAction: "pan-y" }} id="">
-              <li>
-                <Link to="#intro">Intro</Link>
-              </li>
-              <li>
-                <Link to="#about">About</Link>
-              </li>
-              <li>
-                <Link to="#skills">Skills</Link>
-              </li>
-              <li>
-                <Link to="#tools">Tools</Link>
-              </li>
-              <li>
-                <Link to="#projects">Projects</Link>
-              </li>
+              {NavLinkData?.map((item) => (
+                <NavigationLink
+                  key={item.id}
+                  linkTo={item.linkTo}
+                  name={item.name}
+                />
+              ))}
             </ul>
           </nav>
         </Modal>
