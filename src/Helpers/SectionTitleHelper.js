@@ -4,6 +4,6 @@ export const SectionTitleHelper = {
   skills: "Skills",
   tools: "Tools",
   technologies: "Technologies",
-  Projects: "Projects",
+  projects: "Projects",
   footerSectionTitle: "Connect with me",
 };

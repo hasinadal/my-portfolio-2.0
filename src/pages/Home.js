@@ -6,6 +6,7 @@ import TechnologiesSection from "../components/TechnologiesSection/TechnologiesS
 import ToolsSection from "../components/ToolsSection/ToolsSection";
 import Footer from "../layouts/Footer/Footer";
 import Header from "../layouts/Header/Header";
+import ProjectsSection from "../components/ProjectsSection/ProjectsSection";
 
 const Home = () => {
   return (
@@ -16,6 +17,7 @@ const Home = () => {
       <SkillsSection />
       <ToolsSection />
       <TechnologiesSection />
+      <ProjectsSection />
       <Footer />
     </div>
   );

@@ -1,17 +1,13 @@
 import React from "react";
+import SectionTitle from "../../sharedComponents/sectionTitle/SectionTitle";
+import SimpleProgressbar from "../../sharedComponents/SimpleProgressBar";
 import { SkillSectionData } from "./SkillSectionData";
 
 const SkillsSection = () => {
   return (
     <section class="home-about-area section-gap" id="skills">
       <div class="container">
-        <div class="row align-items-center justify-content-between">
-          <div class="col-lg-12 col-md-12">
-            <h1 class="text-uppercase title text-center">
-              {SkillSectionData?.sectionTitle}
-            </h1>
-          </div>
-        </div>
+        <SectionTitle sectionTitleText={SkillSectionData?.sectionTitle} />
         <div class="row skillbar-wraps">
           <div class="col-lg-6 skill-left">
             <h4 class="pt-30 text-align: left">
@@ -21,7 +17,7 @@ const SkillsSection = () => {
             {SkillSectionData.skillsCategories.skills.map((item) => (
               <div class="single-skill">
                 <p>{item.skill}</p>
-                <div class="skill" data-width={item.percetage}></div>
+                <SimpleProgressbar endValue={item.percetage} />
               </div>
             ))}
           </div>
@@ -33,7 +29,7 @@ const SkillsSection = () => {
             {SkillSectionData.skillsCategories.tech.map((item) => (
               <div class="single-skill">
                 <p>{item.skill}</p>
-                <div class="skill" data-width={item.percetage}></div>
+                <SimpleProgressbar endValue={item.percetage} />
               </div>
             ))}
           </div>
