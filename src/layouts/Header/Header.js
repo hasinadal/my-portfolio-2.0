@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
+import { SectionTitleHelper } from "../../Helpers/SectionTitleHelper";
 import NavigationLink from "../../sharedComponents/NavigationLink";
 import NavSocialMediaLink from "../../sharedComponents/NavSocialMediaLink";
 import { MobileMenuModal } from "./MobileMenuModal/MobileMenuModal";
@@ -34,7 +35,9 @@ const Header = () => {
 
             <div id="logo">
               <a href="/">
-                <h2 style={{ color: "#04091e" }}>Tabrez Dal</h2>
+                <h2 style={{ color: "#04091e" }}>
+                  {SectionTitleHelper.headerSectionTitle}
+                </h2>
               </a>
             </div>
 

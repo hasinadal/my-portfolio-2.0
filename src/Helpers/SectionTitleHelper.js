@@ -1,4 +1,5 @@
 export const SectionTitleHelper = {
+  headerSectionTitle: "Tabrez Dal",
   aboutMe: "About Me",
   skills: "Skills",
   tools: "Tools",

@@ -6,6 +6,7 @@ import "./styles/main.css";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
+import NoPageFound from "./pages/NoPageFound";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Routes>
         <Route path="/" exact element={<Home />}></Route>
         <Route path="home" exact element={<Home />}></Route>
+        <Route path="*" exact element={<NoPageFound />}></Route>
       </Routes>
     </div>
   );
