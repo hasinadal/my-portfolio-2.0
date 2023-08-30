@@ -1,0 +1,31 @@
+.ShareSocialButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: "pointer";
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    height: auto;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+.ShareSocialButton:hover {
+    background-color: #000;
+}
+
+
+.ShareSocialButton:hover .social-platform,
+.ShareSocialButton:hover .fa {
+    color: #fff;
+}
+
+.ShareSocialButton .fa {
+    color: #000;
+}
+
+.social-platform {
+    font-size: 10px;
+    margin: 0px;
+    color: #000;
+}

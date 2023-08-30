@@ -2373,9 +2373,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .brands-area,
 .about-banner,
 .sb_bar {
-  background: -moz-linear-gradient(0deg, #0378b8 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #0378b8 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #0378b8 0%, #62bdfc 100%);
+  background: #000000;
 }
 
 .p1-gradient-color,
@@ -2405,6 +2403,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   cursor: pointer;
   position: relative;
 }
+
 
 .primary-btn:focus {
   outline: none;
@@ -4405,7 +4404,7 @@ dl.accordion.time-line:before {
 /*  Footer Styles
 /* =================================== */
 .footer-area {
-  background-color: #04091e;
+  background-color: #000000;
 }
 
 .single-footer-widget h4 {
@@ -4751,4 +4750,47 @@ dl.accordion.time-line:before {
 #nav-menu-container .nav-menu.nav-menu-right {
   display: flex;
   justify-content: end;
+}
+
+
+.f-s-14 {
+  font-size: 14px;
+}
+
+
+#FigmaPage {
+  padding: 80px 120px;
+}
+
+.FigmaFrame {
+  width: 100%;
+}
+
+.description-section {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  padding-right: 26px;
+}
+
+.details-section {
+  padding-left: "26px"
+}
+
+@media screen and (max-width: 768px) {
+  .FigmaFrame {
+    width: 100%;
+  }
+
+
+  #FigmaPage {
+    padding: 20px 0px;
+  }
+
+  .description-section {
+    border-right: none;
+    padding-right: calc(var(--bs-gutter-x) * .5)
+  }
+}
+
+.black-btn {
+  background: #000;
 }
