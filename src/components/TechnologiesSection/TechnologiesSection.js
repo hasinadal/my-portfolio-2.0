@@ -6,10 +6,10 @@ import { TechnologiesSectionData } from "./TechnologiesSectionData";
 
 const TechnologiesSection = () => {
   return (
-    <section class="pt-30" id="technologies">
-      <div class="container">
+    <section className="pt-30" id="technologies">
+      <div className="container">
         <SectionTitle sectionTitleText={SectionTitleHelper.technologies} />
-        <div class="row">
+        <div className="row">
           {TechnologiesSectionData?.FeatureTech.map((item) => (
             <SingleTechnologySection
               key={item.id}

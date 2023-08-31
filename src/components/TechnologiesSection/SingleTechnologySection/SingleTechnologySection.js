@@ -7,8 +7,8 @@ const SingleTechnologySection = ({ techName, techLogo, featured }) => {
     featured == true ? FeaturedTechClass : NormalTechClass
   }`;
   return (
-    <div class={currentClass}>
-      <div class="single-services">
+    <div className={currentClass}>
+      <div className="single-services">
         <span>
           <img draggable="false" src={techLogo} alt={techName} />
         </span>

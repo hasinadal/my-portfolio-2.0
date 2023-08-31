@@ -6,10 +6,10 @@ import { ToolsSectionData } from "./ToolsSectionData";
 
 const ToolsSection = () => {
   return (
-    <section class="pt-12" id="tools">
-      <div class="container">
+    <section className="pt-12" id="tools">
+      <div className="container">
         <SectionTitle sectionTitleText={SectionTitleHelper.tools} />
-        <div class="row">
+        <div className="row">
           {ToolsSectionData?.map((item) => (
             <SingleToolSection
               key={item.id}

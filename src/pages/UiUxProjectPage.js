@@ -16,7 +16,7 @@ const UiUxProjectPage = () => {
   const { id } = useParams();
   const location = useLocation();
 
-  // console.log("Loc URL", location.pathname.split("/")[2]);
+  // console.log("Loc URL", location.pathname.split("/")[1]);
 
   const [pageContentProps, setPageContentProps] = useState(null);
   const [breadcrumbProps, setBreadcrumbProps] = useState(null);
@@ -49,7 +49,7 @@ const UiUxProjectPage = () => {
 
   // console.log("+++++", pageContentProps?.FigmaDesignLink);
   useEffect(() => {
-    document.title = "Services | TZ Creation";
+    document.title = "Ui/Ux Project | TZ Creation";
     window.scrollTo(0, 0);
   }, [id]);
 

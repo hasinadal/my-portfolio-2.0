@@ -17,7 +17,11 @@ const Footer = () => {
               </div>
               <div className="d-flex justify-content-center">
                 {FooterSocialMediaLinksData?.map((item) => (
-                  <SocialMediaLinks url={item.url} icon={item.iconClass} />
+                  <SocialMediaLinks
+                    url={item.url}
+                    icon={item.iconClass}
+                    key={item.id}
+                  />
                 ))}
               </div>
             </div>

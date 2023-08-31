@@ -2,8 +2,8 @@ import React from "react";
 
 const SingleToolSection = ({ toolName, toolLogo }) => {
   return (
-    <div class="col-lg-2 col-md-6 col-sm-6 col-6">
-      <div class="single-services">
+    <div className="col-lg-2 col-md-6 col-sm-6 col-6">
+      <div className="single-services">
         <span>
           <img draggable="false" src={toolLogo} alt={toolName} />
         </span>

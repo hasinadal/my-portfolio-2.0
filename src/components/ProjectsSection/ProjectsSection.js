@@ -6,7 +6,7 @@ import ProjectsTabsContainer from "./ProjectsTabs/ProjectsTabsContainer";
 const ProjectsSection = () => {
   return (
     <>
-      <section className="portfolio-area section-gap" id="portfolio">
+      <section className="portfolio-area section-gap" id="projects">
         <div className="container">
           <SectionTitle sectionTitleText={SectionTitleHelper.projects} />
           <ProjectsTabsContainer />

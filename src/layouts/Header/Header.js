@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Button from "react-bootstrap/Button";
 import { SectionTitleHelper } from "../../Helpers/SectionTitleHelper";
 import NavigationLink from "../../sharedComponents/NavigationLink";
@@ -12,13 +12,23 @@ const Header = () => {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
+  const [headerShadow, setHeaderShadow] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      window.addEventListener("scroll", () =>
+        setHeaderShadow(window.pageYOffset > 200)
+      );
+    }
+  }, []);
+
   return (
     <div className="">
       <Button variant="primary" id="mobile-nav-toggle" onClick={handleShow}>
         <i className="lnr lnr-menu"></i>
       </Button>
       <MobileMenuModal handleClose={handleClose} show={show} />
-      <header id="header">
+      <header id="header" className={`${headerShadow ? "headerShadow" : ""}`}>
         <div className="container main-menu">
           <div className="align-items-center justify-content-between d-flex">
             <nav id="nav-menu-container">

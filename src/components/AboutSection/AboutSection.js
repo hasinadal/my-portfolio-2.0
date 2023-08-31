@@ -5,23 +5,23 @@ import { AboutSectionData } from "./AboutSectionData";
 
 const AboutSection = () => {
   return (
-    <section class="home-about-area pt-30" id="about">
-      <div class="container">
-        <div class="row align-items-center justify-content-between">
-          <div class="col-lg-4 col-md-4 home-about-left">
+    <section className="home-about-area pt-30" id="about">
+      <div className="container">
+        <div className="row align-items-center justify-content-between">
+          <div className="col-lg-4 col-md-4 home-about-left">
             <img
               draggable="false"
-              class="img-fluid"
+              className="img-fluid"
               src={AboutSectionData?.sectionImage}
               alt=""
             />
           </div>
-          <div class="col-lg-7 col-md-7 home-about-right">
-            <h1 class="text-uppercase mb-2">
+          <div className="col-lg-7 col-md-7 home-about-right">
+            <h1 className="text-uppercase mb-2">
               {AboutSectionData?.sectionTitle}
             </h1>
             {AboutSectionData?.description?.map((item) => (
-              <p class="text-justify" key={item.id}>
+              <p className="text-justify" key={item.id}>
                 {item.desc}
               </p>
             ))}
