@@ -3,7 +3,7 @@ import React from "react";
 const NavSocialMediaLink = ({ url, iconClass }) => {
   return (
     <li>
-      <a href="https://www.facebook.com/tabrezdal/">
+      <a href={url}>
         <i className={iconClass}></i>
       </a>
     </li>

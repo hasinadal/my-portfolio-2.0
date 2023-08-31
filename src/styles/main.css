@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #0378b8;
@@ -2199,7 +2203,7 @@ h6 {
 }
 
 .nav-menu .fa {
-  color: #04091e;
+  color: #191919;
   transition: 0.3s ease-in-out;
 }
 
@@ -4797,4 +4801,10 @@ dl.accordion.time-line:before {
 
 .headerShadow {
   box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+
+
+#header .nav-menu .navlink a {
+  color: #191919;
+  cursor: pointer;
 }

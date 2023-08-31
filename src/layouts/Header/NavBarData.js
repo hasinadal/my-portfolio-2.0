@@ -2,32 +2,32 @@ export const NavLinkData = [
   {
     id: 1,
     name: "Intro",
-    linkTo: "#intro",
+    linkTo: "intro",
   },
   {
     id: 2,
     name: "About",
-    linkTo: "#about",
+    linkTo: "about",
   },
   {
     id: 3,
     name: "Skills",
-    linkTo: "#skills",
+    linkTo: "skills",
   },
   {
     id: 4,
     name: "Tools",
-    linkTo: "#tools",
+    linkTo: "tools",
   },
   {
     id: 5,
     name: "Tech",
-    linkTo: "#technologies",
+    linkTo: "technologies",
   },
   {
     id: 6,
     name: "Projects",
-    linkTo: "#projects",
+    linkTo: "projects",
   },
 ];
 

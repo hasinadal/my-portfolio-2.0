@@ -6,7 +6,7 @@ import { ToolsSectionData } from "./ToolsSectionData";
 
 const ToolsSection = () => {
   return (
-    <section className="pt-12" id="tools">
+    <section className="pt-30" id="tools">
       <div className="container">
         <SectionTitle sectionTitleText={SectionTitleHelper.tools} />
         <div className="row">
