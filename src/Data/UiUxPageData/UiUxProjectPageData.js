@@ -58,9 +58,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux07",
     tags: [
@@ -110,9 +110,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux08",
     tags: [
@@ -153,9 +153,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux09",
     tags: [
@@ -202,9 +202,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux10",
     tags: [
@@ -245,9 +245,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux11",
     tags: [
@@ -288,9 +288,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux12",
     tags: [
@@ -331,9 +331,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux13",
     tags: [
@@ -385,9 +385,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux14",
     tags: [
@@ -428,9 +428,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux15",
     tags: [
@@ -471,9 +471,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux16",
     tags: [
@@ -514,9 +514,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux17",
     tags: [
@@ -557,9 +557,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux18",
     tags: [
@@ -611,9 +611,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux19",
     tags: [
@@ -654,9 +654,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux20",
     tags: [
@@ -703,9 +703,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux21",
     tags: [
@@ -746,9 +746,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux22",
     tags: [
@@ -783,9 +783,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux23",
     tags: [
@@ -826,9 +826,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux24",
     tags: [
@@ -869,9 +869,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux25",
     tags: [
@@ -912,9 +912,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux26",
     tags: [
@@ -955,9 +955,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux27",
     tags: [
@@ -998,9 +998,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux28",
     tags: [
@@ -1041,9 +1041,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux29",
     tags: [
@@ -1078,9 +1078,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux30",
     tags: [
@@ -1121,9 +1121,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux31",
     tags: [
@@ -1158,9 +1158,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux32",
     tags: [
@@ -1201,9 +1201,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux33",
     tags: [
@@ -1242,9 +1242,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux34",
     tags: [
@@ -1284,9 +1284,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux35",
     tags: [
@@ -1326,9 +1326,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux36",
     tags: [
@@ -1368,9 +1368,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux37",
     tags: [
@@ -1410,9 +1410,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux38",
     tags: [
@@ -1452,9 +1452,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux39",
     tags: [
@@ -1494,9 +1494,9 @@ const UiUxProjectPageData = {
       },
     ],
     buttonsGroup: {
-      View: true,
-      Download: true,
-      Buy: true,
+      View: false,
+      Download: false,
+      Buy: false,
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux40",
     tags: [
@@ -1525,9 +1525,9 @@ const UiUxProjectPageData = {
   //     },
   //   ],
   //   buttonsGroup: {
-  //     View: true,
-  //     Download: true,
-  //     Buy: true,
+  //     View: false,
+  //     Download: false,
+  //     Buy: false,
   //   },
   //   socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux41",
   //   tags: [
