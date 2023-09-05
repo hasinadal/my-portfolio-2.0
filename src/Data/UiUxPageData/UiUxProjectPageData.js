@@ -759,6 +759,785 @@ const UiUxProjectPageData = {
       { tag: "Homepage Design" },
     ],
   },
+  uiux23: {
+    id: "u23",
+    pageName: "FamilyOffice360",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/U8iJ98CkIeuUfx2Z8gODvR/360FamilyOffice?type=design&node-id=0%3A1&mode=design&t=R81Znbi1TbQPVH3K-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FU8iJ98CkIeuUfx2Z8gODvR%2FFamilyOffice360%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DR81Znbi1TbQPVH3K-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/U8iJ98CkIeuUfx2Z8gODvR/FamilyOffice360?page-id=0%3A1&type=design&node-id=1-922&viewport=55%2C333%2C0.03&t=rZD9ngslLgH0eyD6-1&scaling=scale-down-width&starting-point-node-id=1%3A922&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FU8iJ98CkIeuUfx2Z8gODvR%2FFamilyOffice360%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-922%26viewport%3D55%252C333%252C0.03%26t%3DrZD9ngslLgH0eyD6-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D1%253A922%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🌟 Designing Wealth and Legacy: My Journey with FamilyOffice360",
+        descriptionContent:
+          "As a designer, I brought FamilyOffice360's vision to life through intuitive web design. With two distinct website variations, I aimed to convey trust and reliability while recognizing that a family office is a custodian of dreams and legacies.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux23",
+    tags: [
+      { tag: "Web Design" },
+      { tag: "Financial Services" },
+      { tag: "User Experience Design" },
+      { tag: "Wealth Management" },
+      { tag: "Figma UI/UX" },
+    ],
+  },
+  uiux24: {
+    id: "u24",
+    pageName: "A1 Visas Passport Photo Service Landing Page",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/GP3XBvWHv60gniVIEslUDB/A1-Visas-Passport-Photo-Service-Landing-Page?type=design&node-id=0%3A1&mode=design&t=Z5mQr4jvO92aLwqt-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGP3XBvWHv60gniVIEslUDB%2FA1-Visas-Passport-Photo-Service-Landing-Page%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DZ5mQr4jvO92aLwqt-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/GP3XBvWHv60gniVIEslUDB/A1-Visas-Passport-Photo-Service-Landing-Page?page-id=0%3A1&type=design&node-id=1-2&viewport=-404%2C176%2C0.19&t=GJjMTBWPHfDjGDgp-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FGP3XBvWHv60gniVIEslUDB%2FA1-Visas-Passport-Photo-Service-Landing-Page%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-2%26viewport%3D-404%252C176%252C0.19%26t%3DGJjMTBWPHfDjGDgp-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D1%253A2%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🌟 Crafting User-Centric Design: A1 Visas Passport Photo Service Landing Page",
+        descriptionContent:
+          "As a UI/UX designer, my mission was to translate your client's vision into a seamlessly functional landing page. The A1 Visas Passport Photo Service is your passport to hassle-free global travel, with country-specific photo solutions that are guaranteed to be accepted.",
+      },
+      {
+        descriptionTitle:
+          "📸 Simplifying Global Travel: Your Passport to Hassle-Free Photos",
+        descriptionContent:
+          "Our user-centric landing page design focuses on simplicity and efficiency, ensuring that users can quickly access the services they need. Whether it's a U.S. visa or any other international travel document, I've designed this page to be intuitive and user-friendly, so travelers can get their photos with ease.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux24",
+    tags: [
+      { tag: "Passport Photos" },
+      { tag: "User-Centric Design" },
+      { tag: "User Experience Design" },
+      { tag: "Landing Page" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux25: {
+    id: "u25",
+    pageName: "Artyss",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/GVMlNLbc0a7nlteT4mYhgi/Artyss?type=design&node-id=0%3A1&mode=design&t=IVjFjXScZF8NYC1n-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGVMlNLbc0a7nlteT4mYhgi%2FArtyss%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DIVjFjXScZF8NYC1n-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/GVMlNLbc0a7nlteT4mYhgi/Artyss?page-id=0%3A1&type=design&node-id=60-58&viewport=-82%2C60%2C0.09&t=AqQs6o1k0vc0vUu1-1&scaling=scale-down-width&starting-point-node-id=60%3A58&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FGVMlNLbc0a7nlteT4mYhgi%2FArtyss%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D60-58%26viewport%3D-82%252C60%252C0.09%26t%3DAqQs6o1k0vc0vUu1-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D60%253A58%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🌟 Designing Artyss: Elevating Commercial Spaces Through Exceptional UI/UX",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege to collaborate with client, Artyss, to craft an online presence that truly reflects their commitment to exceptional commercial interior design in Bangalore. My goal was to not only communicate their services but also to create a digital space that captures the essence of their brand.",
+      },
+      {
+        descriptionTitle:
+          "🖌️ Crafting a Seamless Digital Experience for Artyss: Redefining Interior Design Online",
+        descriptionContent:
+          "Artyss stands as a testament to professionalism and quality in commercial interior design. In designing their website, I aimed to echo these values by crafting an interface that is not only aesthetically pleasing but also highly functional. This ensures that visitors can effortlessly navigate the site, explore the diverse range of services, and gain insight into Artyss's unique approach.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux25",
+    tags: [
+      { tag: "Commercial Interior Design" },
+      { tag: "Website Design" },
+      { tag: "User Experience" },
+      { tag: "Brand Identity" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux26: {
+    id: "u26",
+    pageName: "GRM Website Design",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/3npgTrAOpAlGxfITpOOUOs/GRM-Website-Design?type=design&node-id=2%3A2208&mode=design&t=tTC1tu15J1jFxuIK-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3npgTrAOpAlGxfITpOOUOs%2FGRM-Website-Design%3Ftype%3Ddesign%26node-id%3D2%253A2208%26mode%3Ddesign%26t%3DtTC1tu15J1jFxuIK-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/3npgTrAOpAlGxfITpOOUOs/GRM-Website-Design?page-id=0%3A1&type=design&node-id=1-2&viewport=-217%2C192%2C0.13&t=PP7xszXohCnypOaf-1&scaling=scale-down-width&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3npgTrAOpAlGxfITpOOUOs%2FGRM-Website-Design%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-2%26viewport%3D-217%252C192%252C0.13%26t%3DPP7xszXohCnypOaf-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D1%253A2%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🌟 Crafting a User-Centric Vision: GRM - Group of Education Website Design",
+        descriptionContent:
+          "As the sole UI/UX designer on this project, my mission was to transform the vision of GRM - Group of Education into a user-centric and visually compelling website. With a deep understanding of the problem statement discussed with the client, I crafted a comprehensive website that caters to the needs of students seeking to enroll in a diverse range of courses.",
+      },
+      {
+        descriptionTitle:
+          "🎓 Navigating Educational Journeys: Empowering Students through UX/UI Excellence",
+        descriptionContent:
+          "My website design not only simplifies the enrollment process but also serves as an informative hub, providing students with in-depth details about each course. Navigating through the platform, users can explore course offerings, access course materials, and find the resources needed to make informed educational choices. GRM's commitment to education and innovation is now reflected in a digital space that empowers students to shape their educational journeys.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux26",
+    tags: [
+      { tag: "Educational Website" },
+      { tag: "Student Enrollment" },
+      { tag: "User-Centric Design" },
+      { tag: "UI/UX Design" },
+      { tag: "Figma UI/UX" },
+    ],
+  },
+  uiux27: {
+    id: "u27",
+    pageName: "Saish H & F",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/YQov31t54lyAyoEvYdRczB/Saish-H-%26-F?type=design&node-id=0%3A1&mode=design&t=gebrGTcB7OaWw5LB-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYQov31t54lyAyoEvYdRczB%2FSaish-H-%2526-F%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DgebrGTcB7OaWw5LB-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/YQov31t54lyAyoEvYdRczB/Saish-H-%26-F?page-id=0%3A1&type=design&node-id=2-457&viewport=-1077%2C129%2C0.12&t=jM1Aa8pW18a2JFb9-1&scaling=scale-down-width&starting-point-node-id=2%3A457&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYQov31t54lyAyoEvYdRczB%2FSaish-H-%2526-F%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-457%26viewport%3D-1077%252C129%252C0.12%26t%3DjM1Aa8pW18a2JFb9-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D2%253A457%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🏋️‍♀️ Shaping Fitness through Design: Saish H & F's Online Presence",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege to collaborate with Saish H & F, a distinguished fitness and gym equipment selling company, to create an online platform that perfectly aligns with their vision. The goal was clear: design a website that embodies simplicity and elegance while showcasing their range of fitness products.",
+      },
+      {
+        descriptionTitle:
+          "💪 Elevating Fitness Retail: Crafting Saish H & F's User-Centric Website",
+        descriptionContent:
+          "At Saish H & F, fitness isn't just a business; it's a lifestyle. Therefore, I meticulously crafted variations of the website to meet the client's specific requests. The resulting digital presence not only provides a seamless shopping experience for customers but also reflects the company's commitment to quality and excellence in the fitness industry.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux27",
+    tags: [
+      { tag: "Fitness Equipment" },
+      { tag: "E-commerce Website" },
+      { tag: "Simplicity" },
+      { tag: "Elegance" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux28: {
+    id: "u28",
+    pageName: "Sundesh Solar Website Revamp",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/KMqHhUfaWwFEGJuQftQzi1/Sundesh-Solar-Website-Revamp?type=design&node-id=0%3A1&mode=design&t=JqB80ZKzAkBHbXCD-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FKMqHhUfaWwFEGJuQftQzi1%2FSundesh-Solar-Website-Revamp%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DJqB80ZKzAkBHbXCD-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/KMqHhUfaWwFEGJuQftQzi1/Sundesh-Solar-Website-Revamp?page-id=0%3A1&type=design&node-id=4-2325&viewport=246%2C357%2C0.12&t=CJbppQ4SPrkf54hP-1&scaling=scale-down-width&starting-point-node-id=4%3A2325&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKMqHhUfaWwFEGJuQftQzi1%2FSundesh-Solar-Website-Revamp%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D4-2325%26viewport%3D246%252C357%252C0.12%26t%3DCJbppQ4SPrkf54hP-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D4%253A2325%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "☀️ Modernizing the Solar Frontier: Sundesh Solar Website Revamp",
+        descriptionContent:
+          "As a UI/UX designer, I undertook the task of revamping the Sundesh Solar website, a journey that aimed to modernize their online presence. My primary focus was on the homepage, the digital face of Sundesh Solar, where first impressions matter the most.",
+      },
+      {
+        descriptionTitle:
+          "🌞 Digital Radiance: Crafting Three Unique Variants for Sundesh Solar's Homepage",
+        descriptionContent:
+          "I meticulously designed three distinct variants for the homepage, each with its unique aesthetic and functionality. These variants were crafted to offer visitors a visually captivating experience while ensuring easy navigation and access to essential information. The goal was not just to revamp a website but to elevate Sundesh Solar's digital brand image and provide a platform that reflects their commitment to sustainable energy solutions.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux28",
+    tags: [
+      { tag: "Website Revamp" },
+      { tag: "Homepage Design" },
+      { tag: "Sustainability" },
+      { tag: "Solar Energy" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux29: {
+    id: "u29",
+    pageName: "UpStreamLife",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/OvY18KpXOgWRu6wG3JkQIE/UpStreamLife?type=design&node-id=2%3A227&mode=design&t=etUiB8z9M1YuJB3g-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOvY18KpXOgWRu6wG3JkQIE%2FUpStreamLife%3Ftype%3Ddesign%26node-id%3D2%253A227%26mode%3Ddesign%26t%3DetUiB8z9M1YuJB3g-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/OvY18KpXOgWRu6wG3JkQIE/UpStreamLife?page-id=2%3A227&type=design&node-id=8-518&viewport=273%2C332%2C0.04&t=ig6vtkhriNkVvYwq-1&scaling=scale-down-width&starting-point-node-id=8%3A518&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FOvY18KpXOgWRu6wG3JkQIE%2FUpStreamLife%3Fpage-id%3D2%253A227%26type%3Ddesign%26node-id%3D8-518%26viewport%3D273%252C332%252C0.04%26t%3Dig6vtkhriNkVvYwq-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D8%253A518%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🎙️ Crafting Success Stories: UpStreamLife's UI/UX Journey",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege to work on the UpStreamLife project—an exciting venture into the world of business podcasts. The goal was to create a digital platform where users could not only listen but also watch insightful interviews with successful entrepreneurs.",
+      },
+      {
+        descriptionTitle:
+          "🌟 Designing Knowledge Flow: Navigating Success with UpStreamLife",
+        descriptionContent:
+          "UpStreamLife isn't just a podcast; it's a journey through the stories of success. My role was to design an interface that seamlessly connects users with this wealth of knowledge. I focused on crafting an experience that is not only visually engaging but also intuitively navigable, ensuring that users can access these valuable insights with ease.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux29",
+    tags: [
+      { tag: "Business Podcast" },
+      { tag: "User Experience" },
+      { tag: "Entrepreneurship" },
+      { tag: "Podcast Website" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux30: {
+    id: "u30",
+    pageName: "ZeroZilla Profile",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/OvY18KpXOgWRu6wG3JkQIE/UpStreamLife?type=design&node-id=2%3A227&mode=design&t=etUiB8z9M1YuJB3g-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJSc6X86Vw3QJZjgOzKFUWz%2FZeroZilla-Profile%3Ftype%3Ddesign%26node-id%3D28%253A1140%26mode%3Ddesign%26t%3DvpyUMc11OHMIv0m5-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/JSc6X86Vw3QJZjgOzKFUWz/ZeroZilla-Profile?page-id=0%3A1&type=design&node-id=1-32&viewport=311%2C315%2C0.17&t=I3Gk5bF61FDREizV-1&scaling=scale-down&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJSc6X86Vw3QJZjgOzKFUWz%2FZeroZilla-Profile%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-32%26viewport%3D311%252C315%252C0.17%26t%3DI3Gk5bF61FDREizV-1%26scaling%3Dscale-down%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "📈 Redefining Identity: ZeroZilla Profile Correction through Design",
+        descriptionContent:
+          "As a UI/UX designer, I embarked on a mission to redefine ZeroZilla's online profile. My role was to make necessary corrections, aligning their digital presence with their corporate identity and vision.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux30",
+    tags: [
+      { tag: "Digital Profile" },
+      { tag: "Corporate Identity" },
+      { tag: "Branding" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux31: {
+    id: "u31",
+    pageName: "TeachersIndia UI Revamped",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/1maPgSagYx0XVlgfqfDRvf/TeachersIndia-UI-Revamped?type=design&node-id=0%3A1&mode=design&t=OU8eJG9J22ogmkuz-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1maPgSagYx0XVlgfqfDRvf%2FTeachersIndia-UI-Revamped%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DOU8eJG9J22ogmkuz-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/1maPgSagYx0XVlgfqfDRvf/TeachersIndia-UI-Revamped?page-id=0%3A1&type=design&node-id=1-5&viewport=68%2C355%2C0.04&t=vUt4Lc5nJ1DQcvxb-1&scaling=scale-down-width&starting-point-node-id=1%3A5&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1maPgSagYx0XVlgfqfDRvf%2FTeachersIndia-UI-Revamped%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-5%26viewport%3D68%252C355%252C0.04%26t%3DvUt4Lc5nJ1DQcvxb-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D1%253A5%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🎓 Crafting Excellence: Redefining TeachersIndia Through UI/UX Revamp",
+        descriptionContent:
+          "In my role as a UI/UX designer, I had the privilege to embark on a transformative journey with TeachersIndia, one of the most esteemed teacher training institutes in the country. Our mission was clear: to revamp their digital interface, aligning it with their prestigious reputation and commitment to excellence.",
+      },
+      {
+        descriptionTitle:
+          "🌟 Navigating Educational Brilliance: TeachersIndia's Digital Transformation",
+        descriptionContent:
+          "TeachersIndia isn't just an institute; it's a beacon of quality education. With highly experienced and skillful faculties, they offer a level of training that's second to none. The challenge was to translate this excellence into a digital experience. Through thoughtful design, we aimed to provide an intuitive platform for students, offering access to a range of courses and programs. This revamp is more than a visual update; it's a testament to TeachersIndia's unwavering dedication to educational brilliance.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux31",
+    tags: [
+      { tag: "Educational Excellence" },
+      { tag: "Training Website" },
+      { tag: "User Experience" },
+      { tag: "Courses" },
+      { tag: "Programs" },
+    ],
+  },
+  uiux32: {
+    id: "u32",
+    pageName: "FMSCI Homepage Revamp",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/fSzjRKATh8CHeWe5qqvFs9/FMSCI-Homepage-Revamp?type=design&node-id=0%3A1&mode=design&t=4Pxxi1LxWI03hUPq-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FfSzjRKATh8CHeWe5qqvFs9%2FFMSCI-Homepage-Revamp%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D4Pxxi1LxWI03hUPq-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/fSzjRKATh8CHeWe5qqvFs9/FMSCI-Homepage-Revamp?page-id=0%3A1&type=design&node-id=2-689&viewport=-286%2C645%2C0.1&t=0LnhJZ0LyYS88zxH-1&scaling=scale-down-width&starting-point-node-id=2%3A689&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfSzjRKATh8CHeWe5qqvFs9%2FFMSCI-Homepage-Revamp%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-689%26viewport%3D-286%252C645%252C0.1%26t%3D0LnhJZ0LyYS88zxH-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D2%253A689%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🚗 Navigating Safety: FMSCI Homepage Revamp for Road Users",
+        descriptionContent:
+          "As a UI/UX designer, I had the honor of collaborating on the FMSCI homepage revamp project—a crucial initiative by the FIA to enhance road safety for everyday users worldwide. The goal was clear: to transform their digital presence into an informative hub, offering events, news, regulations, calendars, and much more.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux32",
+    tags: [
+      { tag: "Homepage Revamp" },
+      { tag: "Road Safety" },
+      { tag: "Information Hub" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux33: {
+    id: "u33",
+    pageName: "Hotel & Resort Management",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/mnhx8mn78DZByk1jIVfdG9/Hotel-%26-Resort-Management?type=design&node-id=2%3A2&mode=design&t=GwoNfQcYYcekQc6j-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fmnhx8mn78DZByk1jIVfdG9%2FHotel-%2526-Resort-Management%3Ftype%3Ddesign%26node-id%3D2%253A2%26mode%3Ddesign%26t%3DGwoNfQcYYcekQc6j-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/mnhx8mn78DZByk1jIVfdG9/Hotel-%26-Resort-Management?page-id=2%3A2&type=design&node-id=111-16835&viewport=-2%2C438%2C0.02&t=9Q5wIViltWbA3dCi-1&scaling=scale-down-width&starting-point-node-id=111%3A16835&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fmnhx8mn78DZByk1jIVfdG9%2FHotel-%2526-Resort-Management%3Fpage-id%3D2%253A2%26type%3Ddesign%26node-id%3D111-16835%26viewport%3D-2%252C438%252C0.02%26t%3D9Q5wIViltWbA3dCi-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D111%253A16835%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🌟 Designing Getaways: Elevating Outings with Hotel & Resort Management",
+        descriptionContent:
+          "In my role as a UI/UX designer, I embarked on a journey with the Hotel & Resort Management project—an endeavor to create a digital destination that caters to all aspects of a perfect outing. This one-stop platform seamlessly combines hotel bookings, resort stays, villa accommodations, nearby activities, food ordering from booked hotels, and more.",
+      },
+      {
+        descriptionTitle:
+          "🏨 A Digital Escape: Creating Leisure Experiences Through UI/UX Excellence",
+        descriptionContent:
+          "Hotel & Resort Management isn't just a website; it's an experience, a gateway to unforgettable outings. My design approach focused on simplicity and elegance, ensuring that the digital interface matches the leisurely and refined experiences it offers. This project aimed to provide users with a visually pleasing, user-friendly platform where they can plan and enhance their leisure activities effortlessly.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux33",
+    tags: [
+      { tag: "Hotel Booking" },
+      { tag: "Leisure Management" },
+      { tag: "Resort Stays" },
+      { tag: "Villa Accommodations" },
+      { tag: "User Experience" },
+    ],
+  },
+  uiux34: {
+    id: "u34",
+    pageName: "SkillMine [India]",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/yPs7QfEvl19V3ztD0e0UEr/SkillMine-%5BIndia%5D?type=design&node-id=0%3A1&mode=design&t=IrXsFLOZk8IgXP5w-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyPs7QfEvl19V3ztD0e0UEr%2FSkillMine-%255BIndia%255D%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DIrXsFLOZk8IgXP5w-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/yPs7QfEvl19V3ztD0e0UEr/SkillMine-%5BIndia%5D?page-id=0%3A1&type=design&node-id=302-2195&viewport=283%2C164%2C0.02&t=7MI1M0RRZ0h7lrfE-1&scaling=scale-down-width&starting-point-node-id=302%3A2195&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyPs7QfEvl19V3ztD0e0UEr%2FSkillMine-%255BIndia%255D%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D302-2195%26viewport%3D283%252C164%252C0.02%26t%3D7MI1M0RRZ0h7lrfE-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D302%253A2195%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle: "descriptionTitle1",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege to work on SkillMine [India], a leading IT service provider dedicated to driving digital transformation. This project aimed to showcase their extensive range of services, including digital transformation, cloud infrastructure, cybersecurity, app development, and more. Our goal was to create a digital platform that not only informs but also reflects SkillMine's commitment to excellence in the IT sector.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "SkillMine [India] isn't just a company; it's a catalyst for innovation. My role was to ensure that the website design resonates with this spirit. Through user-friendly and visually appealing design, we aimed to provide visitors with easy access to information about the broad spectrum of services they offer. This project was about more than just design; it was about creating a digital experience that mirrors SkillMine's role in transforming the IT landscape in India.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux34",
+    tags: [
+      { tag: "IT Services" },
+      { tag: "IT Company" },
+      { tag: "Full Fledge Website" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux35: {
+    id: "u35",
+    pageName: "SkillMine [UK]",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/ShlQvDHCX99zbYWlSDV2zH/SkillMine-%5BUK%5D?type=design&node-id=124%3A12438&mode=design&t=MOLtkMu4Vpsz33sj-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FShlQvDHCX99zbYWlSDV2zH%2FSkillMine-%255BUK%255D%3Ftype%3Ddesign%26node-id%3D124%253A12438%26mode%3Ddesign%26t%3DMOLtkMu4Vpsz33sj-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/ShlQvDHCX99zbYWlSDV2zH/SkillMine-%5BUK%5D?page-id=124%3A12438&type=design&node-id=124-12467&viewport=196%2C343%2C0.02&t=7IxNU3qgYhGD4K7o-1&scaling=scale-down&starting-point-node-id=124%3A12467&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FShlQvDHCX99zbYWlSDV2zH%2FSkillMine-%255BUK%255D%3Fpage-id%3D124%253A12438%26type%3Ddesign%26node-id%3D124-12467%26viewport%3D196%252C343%252C0.02%26t%3D7IxNU3qgYhGD4K7o-1%26scaling%3Dscale-down%26starting-point-node-id%3D124%253A12467%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "SkillMine [UK]: Pioneering IT Transformation Through UI/UX Excellence",
+        descriptionContent:
+          "In my capacity as a UI/UX designer, I embarked on a transformative journey with SkillMine [UK], a prominent IT service provider in the United Kingdom. The objective was clear: to create a digital presence that showcases their extensive IT service offerings, including digital transformation, cybersecurity, cloud infrastructure, and more.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "SkillMine [UK] isn't just a company; it's an architect of technological progress. My role was to design a user-friendly and visually engaging website that aligns with their commitment to innovation and excellence. This project was about more than just design; it was about crafting a digital space that mirrors SkillMine [UK]'s role in redefining the IT landscape in the United Kingdom.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux35",
+    tags: [
+      { tag: "IT Services" },
+      { tag: "IT Company" },
+      { tag: "Full Fledge Website" },
+      { tag: "User Experience" },
+      { tag: "United Kingdom" },
+    ],
+  },
+  uiux36: {
+    id: "u36",
+    pageName: "SkillMine [KSA]",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/IR4Frc7niFlrrDWLJINipU/SkillMine-%5BKSA%5D?type=design&node-id=64%3A2623&mode=design&t=rjGyPm2mPBkSAIyM-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIR4Frc7niFlrrDWLJINipU%2FSkillMine-%255BKSA%255D%3Ftype%3Ddesign%26node-id%3D64%253A2623%26mode%3Ddesign%26t%3DrjGyPm2mPBkSAIyM-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/IR4Frc7niFlrrDWLJINipU/SkillMine-%5BKSA%5D?page-id=64%3A2623&type=design&node-id=123-5198&viewport=194%2C152%2C0.02&t=6yfqJydJSCuJdiG7-1&scaling=scale-down-width&starting-point-node-id=123%3A5198&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIR4Frc7niFlrrDWLJINipU%2FSkillMine-%255BKSA%255D%3Fpage-id%3D64%253A2623%26type%3Ddesign%26node-id%3D123-5198%26viewport%3D194%252C152%252C0.02%26t%3D6yfqJydJSCuJdiG7-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D123%253A5198%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "SkillMine [KSA]: Forging IT Excellence Through UI/UX Mastery",
+        descriptionContent:
+          "As a UI/UX designer, I was honored to collaborate with SkillMine [KSA], a prominent IT service provider in Saudi Arabia, to craft a digital platform that showcases their extensive array of services, including digital transformation, cloud infrastructure, cybersecurity, and more.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "SkillMine [KSA] isn't just a company; it's an enabler of technological progress. My role was to create a visually appealing and user-friendly website that aligns with their commitment to innovation and excellence. This project was about more than just design; it was about crafting a digital space that reflects SkillMine [KSA]'s pivotal role in shaping IT excellence in Saudi Arabia.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux36",
+    tags: [
+      { tag: "IT Services" },
+      { tag: "IT Company" },
+      { tag: "Full Fledge Website" },
+      { tag: "User Experience" },
+      { tag: "Kingdom of Saudi Arabia" },
+    ],
+  },
+  uiux37: {
+    id: "u37",
+    pageName: "SkillMine Auth",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/qW3ikxRNbGPZ9vYuldfTJt/SkillMine-Auth?type=design&node-id=233%3A4671&mode=design&t=pHlNYFh94hjOn7um-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqW3ikxRNbGPZ9vYuldfTJt%2FSkillMine-Auth%3Ftype%3Ddesign%26node-id%3D233%253A4671%26mode%3Ddesign%26t%3DpHlNYFh94hjOn7um-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/qW3ikxRNbGPZ9vYuldfTJt/SkillMine-Auth?page-id=249%3A11636&type=design&node-id=249-13362&viewport=378%2C203%2C0.07&t=XlNnRYyEGqyvP5Cy-1&scaling=min-zoom&starting-point-node-id=249%3A13362&show-proto-sidebar=1",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqW3ikxRNbGPZ9vYuldfTJt%2FSkillMine-Auth%3Fpage-id%3D249%253A11636%26type%3Ddesign%26node-id%3D249-11637%26viewport%3D378%252C203%252C0.07%26t%3DXlNnRYyEGqyvP5Cy-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D249%253A13362%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🔒 SkillMine Auth: Redefining Digital Authentication through UI/UX Innovation",
+        descriptionContent:
+          "SkillMine Auth, a product of SkillMine, represents a revolutionary leap in the field of digital authentication. This unified authenticator platform supports all major protocols and seamlessly integrates with enterprise applications, partner applications, and social media platforms without the need for any modifications.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "As a UI/UX designer, my task was to create an interface that communicates the power and versatility of SkillMine Auth. Through intuitive design, I aimed to showcase how this product simplifies authentication while maintaining robust security. SkillMine Auth isn't just a product; it's a solution that redefines digital authentication for the modern world.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux37",
+    tags: [
+      { tag: "Unified Authenticator Platform" },
+      { tag: "Digital Security" },
+      { tag: "Authentication" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux38: {
+    id: "u38",
+    pageName: "EdXplore Admin Panel",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/SlofBkzRyGfy7lMBB0CaQc/EdXplore-Admin-Panel?type=design&node-id=0%3A1&mode=design&t=vqoFr3c4I7uqGycb-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSlofBkzRyGfy7lMBB0CaQc%2FEdXplore-Admin-Panel%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DvqoFr3c4I7uqGycb-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/SlofBkzRyGfy7lMBB0CaQc/EdXplore-Admin-Panel?page-id=0%3A1&type=design&node-id=2270-33461&viewport=273%2C56%2C0.02&t=Sh01jIKrnMfIjrVm-1&scaling=min-zoom&starting-point-node-id=2270%3A33461&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSlofBkzRyGfy7lMBB0CaQc%2FEdXplore-Admin-Panel%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2270-33461%26viewport%3D273%252C56%252C0.02%26t%3DSh01jIKrnMfIjrVm-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D2270%253A33461%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🚀 EdXplore Admin Panel: Navigating Skill Enhancement through UI/UX Excellence",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege of working on the EdXplore Admin Panel, a vital component of India's leading skilling platform. This project aimed to streamline the user interface for administrators, ensuring they could efficiently manage the platform's diverse offerings, from verified training institutes to trending courses.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "The EdXplore Admin Panel isn't just an interface; it's the control center for skill enhancement. My mission was to create an intuitive and user-friendly design that empowers administrators to easily oversee and optimize the platform's operations. This project was about more than just design; it was about providing the tools needed to facilitate skill development on a national scale.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux38",
+    tags: [
+      { tag: "Admin Panel" },
+      { tag: "Admin Panel Design" },
+      { tag: "Training" },
+      { tag: "Institutes" },
+      { tag: "Education" },
+    ],
+  },
+  uiux39: {
+    id: "u39",
+    pageName: "EdXplore Admin Panel [Mobile Version]",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/ofBvY7bsfgUJG2lKyjFrYU/EdXplore-Admin-Panel-%5BMobile-Version%5D?type=design&node-id=1054%3A27194&mode=design&t=HQDz2ME6icyBv64q-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FofBvY7bsfgUJG2lKyjFrYU%2FEdXplore-Admin-Panel-%255BMobile-Version%255D%3Ftype%3Ddesign%26node-id%3D1054%253A27194%26mode%3Ddesign%26t%3DHQDz2ME6icyBv64q-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/ofBvY7bsfgUJG2lKyjFrYU/EdXplore-Admin-Panel-%5BMobile-Version%5D?page-id=1054%3A27194&type=design&node-id=2-6768&viewport=-359%2C-34%2C0.16&t=nQCNoc5IfIBWwhQ1-1&scaling=min-zoom&starting-point-node-id=2%3A6768&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FofBvY7bsfgUJG2lKyjFrYU%2FEdXplore-Admin-Panel-%255BMobile-Version%255D%3Fpage-id%3D1054%253A27194%26type%3Ddesign%26node-id%3D2-6768%26viewport%3D-359%252C-34%252C0.16%26t%3DnQCNoc5IfIBWwhQ1-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D2%253A6768%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "📱 EdXplore Admin Panel [Mobile Version]: Mobilizing Skill Development through UI/UX Mastery",
+        descriptionContent:
+          "In my role as a UI/UX designer, I embarked on the journey of creating the EdXplore Admin Panel [Mobile Version], an essential facet of India's leading skilling platform. This project aimed to provide administrators with a mobile-friendly interface, ensuring they could efficiently manage the platform's diverse offerings, from training institutes to trending courses, while on the go.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "The EdXplore Admin Panel [Mobile Version] is about accessibility and convenience. My goal was to design an interface that allows administrators to seamlessly oversee and optimize the platform from the palm of their hand. This project wasn't just about design; it was about empowering administrators to mobilize skill development across India.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux39",
+    tags: [
+      { tag: "Admin Panel" },
+      { tag: "Admin Panel Design" },
+      { tag: "Mobile Ui Design" },
+      { tag: "Institutes" },
+      { tag: "Education" },
+    ],
+  },
+  uiux40: {
+    id: "u40",
+    pageName: "EdXplore Header Revamp",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/HnvvMCCbBKIWPOV2PrTdsy/EdXplore-Header-Revamp?type=design&node-id=123%3A1367&mode=design&t=S9ikM8RY1uxcaUJa-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FHnvvMCCbBKIWPOV2PrTdsy%2FEdXplore-Header-Revamp%3Ftype%3Ddesign%26node-id%3D123%253A1367%26mode%3Ddesign%26t%3DS9ikM8RY1uxcaUJa-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/HnvvMCCbBKIWPOV2PrTdsy/EdXplore-Header-Revamp?page-id=123%3A1367&type=design&node-id=137-1368&viewport=403%2C378%2C0.04&t=Qv0HY1JkdAJ1MRAP-1&scaling=scale-down&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FHnvvMCCbBKIWPOV2PrTdsy%2FEdXplore-Header-Revamp%3Fpage-id%3D123%253A1367%26type%3Ddesign%26node-id%3D137-1368%26viewport%3D403%252C378%252C0.04%26t%3DQv0HY1JkdAJ1MRAP-1%26scaling%3Dscale-down%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🔍 EdXplore Header Revamp: Enhancing User Experience through UI/UX Innovation",
+        descriptionContent:
+          "As a UI/UX designer, I took on the challenge of revamping the EdXplore website's header. The client sought a unique concept to enhance the header's functionality and user accessibility. The goal was to create a design that not only highlights the search feature but also ensures a seamless and user-friendly experience.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "The EdXplore Header Revamp is all about making information more accessible. My mission was to reimagine the header's design in a way that simplifies the user journey and enhances the platform's ease of use. This project was a testament to the importance of user-centered design in elevating the online learning experience.",
+      },
+    ],
+    buttonsGroup: {
+      View: true,
+      Download: true,
+      Buy: true,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux40",
+    tags: [
+      { tag: "Header Revamp" },
+      { tag: "Revamp Design" },
+      { tag: "Website Header Design" },
+      { tag: "Institutes" },
+      { tag: "Education" },
+    ],
+  },
+  // uiux41: {
+  //   id: "u41",
+  //   pageName: "Meco Racing Website UiUx",
+  //   menuName: "Ui/Ux Projects",
+  //   slug: "uiux-project-slug",
+  //   ProjectLinks: {
+  //     FigmaDesignLink: "FigmaDesignLink",
+  //     FigmaDesignEmmbedLink: "FigmaDesignEmmbedLink",
+  //     FigmaPrototypeLink: "FigmaPrototypeLink",
+  //     FigmaPrototypeEmbbedLink: "FigmaPrototypeEmbbedLink",
+  //   },
+  //   description: [
+  //     {
+  //       descriptionTitle: "descriptionTitle1",
+  //       descriptionContent: "descriptionContent",
+  //     },
+  //   ],
+  //   buttonsGroup: {
+  //     View: true,
+  //     Download: true,
+  //     Buy: true,
+  //   },
+  //   socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux41",
+  //   tags: [
+  //     { tag: "Figma UI/UX" },
+  //     { tag: "Figma UI/UX" },
+  //     { tag: "Figma UI/UX" },
+  //     { tag: "Figma UI/UX" },
+  //     { tag: "Figma UI/UX" },
+  //   ],
+  // },
 };
 
 export default UiUxProjectPageData;

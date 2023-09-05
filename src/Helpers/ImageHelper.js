@@ -207,6 +207,24 @@ import SOSEmergencyAppCover from "../Assets/Images/Portfolio/UiUx/SOS-Emergency-
 import TabrezDalExpertProductDesignerCover from "../Assets/Images/Portfolio/UiUx/Tabrez-Dal-Expert-Product-Designer-Cover.webp";
 import TezHUBCover from "../Assets/Images/Portfolio/UiUx/TezHUB-Cover.webp";
 import EatExpress from "../Assets/Images/Portfolio/UiUx/EatExpress.webp";
+import A1VIsasPassportServicesLandingPage from "../Assets/Images/Portfolio/UiUx/A1-Visas-Passport-Photo-Service-Landing-Page-Cover.webp";
+import Artyss from "../Assets/Images/Portfolio/UiUx/Artyss Cover.webp";
+import EdXploreAdminPanelMobileVersion from "../Assets/Images/Portfolio/UiUx/EdXplore-Admin-Panel-_Mobile-Version-Cover.webp";
+import EdXploreAdminPanel from "../Assets/Images/Portfolio/UiUx/EdXplore-Admin-Panel-Cover.webp";
+import EdXploreHeaderRevamp from "../Assets/Images/Portfolio/UiUx/EdXplore-Header-Revamp-Cover.webp";
+import FamilyOffice360 from "../Assets/Images/Portfolio/UiUx/FamilyOffice360-Cover.webp";
+import FMSCIHomepageRevamp from "../Assets/Images/Portfolio/UiUx/FMSCI-Homepage-Revamp-Cover.webp";
+import GRM from "../Assets/Images/Portfolio/UiUx/GRM-Cover.webp";
+import HotelResortManagement from "../Assets/Images/Portfolio/UiUx/Hotel-Resort-Management-Cover.webp";
+import SaishHF from "../Assets/Images/Portfolio/UiUx/Saish-H-&-F-Cover.webp";
+import SkillMineIndia from "../Assets/Images/Portfolio/UiUx/SkillMine [India]-Cover.webp";
+import SkillMineKsa from "../Assets/Images/Portfolio/UiUx/SkillMine [KSA]-Cover.webp";
+import SkillMineUk from "../Assets/Images/Portfolio/UiUx/SkillMine [UK]-Cover.webp";
+import SkillMineAuth from "../Assets/Images/Portfolio/UiUx/SkillMine Auth-Cover.webp";
+import SundeshSolarWebsiteRevamp from "../Assets/Images/Portfolio/UiUx/Sundesh Solar Website Revamp-Cover.webp";
+import TeachersIndiaUiRevamped from "../Assets/Images/Portfolio/UiUx/TeachersIndia UI Revamped-Cover.webp";
+import UpStreamLife from "../Assets/Images/Portfolio/UiUx/UpStreamLife-Cover.webp";
+import ZeroZillaProfile from "../Assets/Images/Portfolio/UiUx/ZeroZilla Profile-Cover.webp";
 
 // Poster
 import CricBuzzBanner from "../Assets/Images/Portfolio/Poster/CricBuzz Banner.webp";
@@ -489,6 +507,24 @@ const ImageHelper = {
   TabrezDalExpertProductDesignerCover,
   TezHUBCover,
   EatExpress,
+  A1VIsasPassportServicesLandingPage,
+  Artyss,
+  EdXploreAdminPanelMobileVersion,
+  EdXploreAdminPanel,
+  EdXploreHeaderRevamp,
+  FamilyOffice360,
+  FMSCIHomepageRevamp,
+  GRM,
+  HotelResortManagement,
+  SaishHF,
+  SkillMineIndia,
+  SkillMineKsa,
+  SkillMineUk,
+  SkillMineAuth,
+  SundeshSolarWebsiteRevamp,
+  TeachersIndiaUiRevamped,
+  UpStreamLife,
+  ZeroZillaProfile,
 
   // Poster
   CricBuzzBanner,
