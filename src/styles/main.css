@@ -4875,6 +4875,27 @@ dl.accordion.time-line:before {
   }
 }
 
+@media screen and (max-width:767px) {
+  #FigmaPage .row {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width: 912px) {
+  #FigmaPage .row {
+    margin-right: 0;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #FigmaPage {
+    padding: 20px 20px;
+  }
+}
+
 .black-btn {
   background: #000;
 }
