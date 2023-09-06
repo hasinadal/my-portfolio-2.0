@@ -4838,7 +4838,7 @@ dl.accordion.time-line:before {
 
 #nav-menu-container .nav-menu.nav-menu-right {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 
