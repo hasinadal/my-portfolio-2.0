@@ -362,15 +362,24 @@ const PortfolioDataUiUx = [
     urlSuffix: "uiux40",
     innerPageData: UiUxProjectPageData.uiux40,
   },
-  // {
-  //   title: "Meco Racing Website UiUx",
-  //   caption: "UiUx Design",
-  //   image: ImageHelper.FinverseGuruRevampedbyTZ,
-  //   fullWebSS: false,
-  //   hasInnerPage: true,
-  //   urlSuffix: "uiux41",
-  //   innerPageData: UiUxProjectPageData.uiux41,
-  // },
+  {
+    title: "Meco Web UiUx Design",
+    caption: "UiUx Design",
+    image: ImageHelper.MecoWebUi,
+    fullWebSS: false,
+    hasInnerPage: true,
+    urlSuffix: "uiux41",
+    innerPageData: UiUxProjectPageData.uiux41,
+  },
+  {
+    title: "Meco Web UiUx Final Design",
+    caption: "UiUx Design",
+    image: ImageHelper.MecoFinalWebUi,
+    fullWebSS: false,
+    hasInnerPage: true,
+    urlSuffix: "uiux42",
+    innerPageData: UiUxProjectPageData.uiux42,
+  },
 ];
 
 export default PortfolioDataUiUx;

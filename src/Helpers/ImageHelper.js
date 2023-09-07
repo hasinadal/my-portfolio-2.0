@@ -225,6 +225,8 @@ import SundeshSolarWebsiteRevamp from "../Assets/Images/Portfolio/UiUx/Sundesh S
 import TeachersIndiaUiRevamped from "../Assets/Images/Portfolio/UiUx/TeachersIndia UI Revamped-Cover.webp";
 import UpStreamLife from "../Assets/Images/Portfolio/UiUx/UpStreamLife-Cover.webp";
 import ZeroZillaProfile from "../Assets/Images/Portfolio/UiUx/ZeroZilla Profile-Cover.webp";
+import MecoWebUi from "../Assets/Images/Portfolio/UiUx/Meco-Cover.webp";
+import MecoFinalWebUi from "../Assets/Images/Portfolio/UiUx/Meco-Final-Cover.webp";
 
 // Poster
 import CricBuzzBanner from "../Assets/Images/Portfolio/Poster/CricBuzz Banner.webp";
@@ -525,6 +527,8 @@ const ImageHelper = {
   TeachersIndiaUiRevamped,
   UpStreamLife,
   ZeroZillaProfile,
+  MecoWebUi,
+  MecoFinalWebUi,
 
   // Poster
   CricBuzzBanner,

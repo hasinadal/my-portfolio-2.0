@@ -1507,37 +1507,90 @@ const UiUxProjectPageData = {
       { tag: "Education" },
     ],
   },
-  // uiux41: {
-  //   id: "u41",
-  //   pageName: "Meco Racing Website UiUx",
-  //   menuName: "Ui/Ux Projects",
-  //   slug: "uiux-project-slug",
-  //   ProjectLinks: {
-  //     FigmaDesignLink: "FigmaDesignLink",
-  //     FigmaDesignEmmbedLink: "FigmaDesignEmmbedLink",
-  //     FigmaPrototypeLink: "FigmaPrototypeLink",
-  //     FigmaPrototypeEmbbedLink: "FigmaPrototypeEmbbedLink",
-  //   },
-  //   description: [
-  //     {
-  //       descriptionTitle: "descriptionTitle1",
-  //       descriptionContent: "descriptionContent",
-  //     },
-  //   ],
-  //   buttonsGroup: {
-  //     View: false,
-  //     Download: false,
-  //     Buy: false,
-  //   },
-  //   socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux41",
-  //   tags: [
-  //     { tag: "Figma UI/UX" },
-  //     { tag: "Figma UI/UX" },
-  //     { tag: "Figma UI/UX" },
-  //     { tag: "Figma UI/UX" },
-  //     { tag: "Figma UI/UX" },
-  //   ],
-  // },
+  uiux41: {
+    id: "u41",
+    pageName: "Meco Web UiUx Design",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/cyMUEkKW5vhO5rrzg9Y5Yb/Meco-Web-UiUx-Design-by-Tabrez-Dal?type=design&node-id=0%3A1&mode=design&t=MzmLj0OWleU25A46-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FcyMUEkKW5vhO5rrzg9Y5Yb%2FMeco-Web-UiUx-Design-by-Tabrez-Dal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DMzmLj0OWleU25A46-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/cyMUEkKW5vhO5rrzg9Y5Yb/Meco-Web-UiUx-Design-by-Tabrez-Dal?page-id=0%3A1&type=design&node-id=53-1523&viewport=-135%2C222%2C0.02&t=iPuSv8HyDtJZYz82-1&scaling=scale-down&starting-point-node-id=53%3A1523&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcyMUEkKW5vhO5rrzg9Y5Yb%2FMeco-Web-UiUx-Design-by-Tabrez-Dal%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D53-1523%26viewport%3D-135%252C222%252C0.02%26t%3DiPuSv8HyDtJZYz82-1%26scaling%3Dscale-down%26starting-point-node-id%3D53%253A1523%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🏁 MECO: Driving Motorsports Excellence through UI/UX Innovation",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege of collaborating with MECO, India's premier motorsports management enterprise. MECO has emerged as one of the biggest names in Indian motorsports, owning and managing premier racing tracks across the country and organizing top racing events and championships.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "My mission was to encapsulate MECO's dynamic and multi-faceted approach to motorsports in a comprehensive website. The challenge lay in presenting a multitude of ideas and concepts, aligning with a team that held a relentless drive towards the excitement of racing and podium finishes. Through intuitive design, we aimed to convey MECO's commitment to the consolidation, expansion, and international exposure of motorsports in India.",
+      },
+    ],
+    buttonsGroup: {
+      View: false,
+      Download: false,
+      Buy: false,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux41",
+    tags: [
+      { tag: "Motorsports" },
+      { tag: "Racing Events" },
+      { tag: "Racing Website" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
+  uiux42: {
+    id: "u42",
+    pageName: "Meco Web UiUx Final Design",
+    menuName: "Ui/Ux Projects",
+    slug: "uiux-project-slug",
+    ProjectLinks: {
+      FigmaDesignLink:
+        "https://www.figma.com/file/RhxolZEwe1bjcxfIXgnc7A/Meco-Web-UiUx-Final-Design-by-Tabrez-Dal?type=design&node-id=0%3A1&mode=design&t=0uXfBHcLc4zqsbK3-1",
+      FigmaDesignEmmbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRhxolZEwe1bjcxfIXgnc7A%2FMeco-Web-UiUx-Final-Design-by-Tabrez-Dal%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D0uXfBHcLc4zqsbK3-1",
+      FigmaPrototypeLink:
+        "https://www.figma.com/proto/RhxolZEwe1bjcxfIXgnc7A/Meco-Web-UiUx-Final-Design-by-Tabrez-Dal?page-id=0%3A1&type=design&node-id=1202-20235&viewport=-255%2C255%2C0.02&t=BDmshOkRvgkuCVh0-1&scaling=scale-down&starting-point-node-id=1202%3A20235&show-proto-sidebar=1&mode=design",
+      FigmaPrototypeEmbbedLink:
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRhxolZEwe1bjcxfIXgnc7A%2FMeco-Web-UiUx-Final-Design-by-Tabrez-Dal%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1202-20235%26viewport%3D-255%252C255%252C0.02%26t%3DBDmshOkRvgkuCVh0-1%26scaling%3Dscale-down%26starting-point-node-id%3D1202%253A20235%26show-proto-sidebar%3D1%26mode%3Ddesign",
+    },
+    description: [
+      {
+        descriptionTitle:
+          "🏁 MECO: Driving Motorsports Excellence through UI/UX Innovation",
+        descriptionContent:
+          "As a UI/UX designer, I had the privilege of collaborating with MECO, India's premier motorsports management enterprise. MECO has emerged as one of the biggest names in Indian motorsports, owning and managing premier racing tracks across the country and organizing top racing events and championships.",
+      },
+      {
+        descriptionTitle: "",
+        descriptionContent:
+          "My mission was to encapsulate MECO's dynamic and multi-faceted approach to motorsports in a comprehensive website. The challenge lay in presenting a multitude of ideas and concepts, aligning with a team that held a relentless drive towards the excitement of racing and podium finishes. Through intuitive design, we aimed to convey MECO's commitment to the consolidation, expansion, and international exposure of motorsports in India.",
+      },
+    ],
+    buttonsGroup: {
+      View: false,
+      Download: false,
+      Buy: false,
+    },
+    socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux42",
+    tags: [
+      { tag: "Motorsports" },
+      { tag: "Racing Events" },
+      { tag: "Racing Website" },
+      { tag: "User Experience" },
+      { tag: "UI/UX Design" },
+    ],
+  },
 };
 
 export default UiUxProjectPageData;
