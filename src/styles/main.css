@@ -4488,6 +4488,12 @@ dl.accordion.time-line:before {
   background-color: #000000;
 }
 
+@media screen and (max-width: 340px) {
+  .footer-area  {
+    overflow-x: auto;
+  }
+}
+
 .single-footer-widget h4 {
   color: #fff !important;
   margin-bottom: 25px;

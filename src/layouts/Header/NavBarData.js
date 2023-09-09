@@ -59,12 +59,17 @@ export const NavSocialMediaLinkData = [
   },
   {
     id: 6,
+    url: "https://www.pinterest.com/tabrezdal/",
+    iconClass: "fa fa-pinterest fa-2x fa-fw",
+  },
+  {
+    id: 7,
     url: "https://github.com/tabrezdal",
     iconClass: "fa fa-github fa-2x fa-fw",
   },
   {
     id: 7,
     url: "https://www.linkedin.com/in/tabrezdal/",
-    iconClass: "fa fa-linkedin  fa-2x fa-fw",
+    iconClass: "fa fa-linkedin fa-2x fa-fw",
   },
 ];
