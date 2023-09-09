@@ -55,7 +55,7 @@ export const SkillSectionData = {
       },
       {
         id: 1,
-        skill: "Graph QL",
+        skill: "Graph QL, Axios, REST API",
         percetage: 80,
       },
     ],
