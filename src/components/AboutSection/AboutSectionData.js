@@ -14,7 +14,7 @@ export const AboutSectionData = {
     },
     {
       id: 3,
-      desc: "Until recently, I was employed as a Front-End Developer and UI/UX Designer at a prominent product-based IT company, located in Bangalore, Karnataka. Additionally, I have embraced freelance work, collaborating with a wide range of clients on an array of exciting projects. My objective is to craft inventive solutions that not only captivate but also foster enduring connections between brands and their customer base. My primary focus on branding and UI/projects/web design is driven by a resolute desire to produce seamless and polished products through intentional and impassioned design.",
+      desc: "Until recently, I was employed as a Front-End Developer and UI/UX Designer at a prominent product-based IT company, located in Bangalore, Karnataka. Additionally, I have embraced freelance work, collaborating with a wide range of clients on an array of exciting projects. My objective is to craft inventive solutions that not only captivate but also foster enduring connections between brands and their customer base. My primary focus on branding and UI / web design projects is driven by a resolute desire to produce seamless and polished products through intentional and impassioned design.",
     },
     {
       id: 4,
