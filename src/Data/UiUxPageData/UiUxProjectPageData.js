@@ -166,39 +166,86 @@ const UiUxProjectPageData = {
       { tag: "Custom Platform Design" },
     ],
   },
+  // uiux10: {
+  //   id: "u10",
+  //   pageName: "Food Delivery App",
+  //   menuName: "Ui/Ux Projects",
+  //   slug: "food-delivery-app",
+  //   ProjectLinks: {
+  //     FigmaDesignLink:
+  //       "https://www.figma.com/file/mxGgaGNGBk4UYv1foP0O4M/EatExpress-Food-Delivery-Customer-App?type=design&node-id=63%3A8445&mode=design&t=hCy0IwFDR5Im9Nct-1",
+  //     FigmaDesignEmmbedLink:
+  //       "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmxGgaGNGBk4UYv1foP0O4M%2FEatExpress-Food-Delivery-Customer-App%3Ftype%3Ddesign%26node-id%3D63%253A8445%26mode%3Ddesign%26t%3DhCy0IwFDR5Im9Nct-1",
+  //     FigmaPrototypeLink:
+  //       "https://www.figma.com/proto/mxGgaGNGBk4UYv1foP0O4M/EatExpress-Food-Delivery-Customer-App?page-id=63%3A8445&type=design&node-id=104-11365&viewport=457%2C72%2C0.05&t=HmVvV7Ec3t7HGrvJ-1&scaling=min-zoom&starting-point-node-id=104%3A11365&show-proto-sidebar=1&mode=design",
+  //     FigmaPrototypeEmbbedLink:
+  //       "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmxGgaGNGBk4UYv1foP0O4M%2FEatExpress-Food-Delivery-Customer-App%3Fpage-id%3D63%253A8445%26type%3Ddesign%26node-id%3D104-11365%26viewport%3D457%252C72%252C0.05%26t%3DHmVvV7Ec3t7HGrvJ-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D104%253A11365%26show-proto-sidebar%3D1%26mode%3Ddesign",
+  //   },
+  //   description: [
+  //     {
+  //       descriptionTitle:
+  //         "🍽️ Food Delivery App: Partnering for Culinary Convenience",
+  //       descriptionContent:
+  //         "Experience gastronomic delight through the Food Delivery App, meticulously divided into two distinct modules catering to both partners and customers. The first module delves into the intuitive design of the Food Delivery Partner app, offering seamless interactions for those bringing meals to your doorstep. The second module is dedicated to the Food Delivery Customer app, ensuring a delightful experience for those seeking culinary indulgence.",
+  //     },
+  //     {
+  //       descriptionTitle:
+  //         "🚀 Food Delivery App: Crafting Seamless Customer Experience",
+  //       descriptionContent:
+  //         "This design endeavor goes beyond the ordinary, incorporating a host of advanced features to elevate user engagement. With a comprehensive design system at its core, the app boasts auto-layout functionality, effortlessly adapting to various devices. Every aspect of food delivery is covered, ensuring a fluid and immersive experience. The integration of high-quality images and icons adds visual allure, while component variants with specific properties facilitate personalization.",
+  //     },
+  //     {
+  //       descriptionTitle:
+  //         "🎨 Food Delivery App: Design Delights and User-Friendly Feasts",
+  //       descriptionContent:
+  //         "The app doesn't just stand as a design masterpiece; it's a collaborative playground. Easy customization allows swift modifications across the design, making it developer, designer, and user-friendly. With a focus on the best user experience, the app is fully prototyped, offering interactive screens that provide a glimpse into the app's functionality.",
+  //     },
+  //   ],
+  //   buttonsGroup: {
+  //     View: false,
+  //     Download: false,
+  //     Buy: false,
+  //   },
+  //   socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux10",
+  //   tags: [
+  //     { tag: "Food Delivery" },
+  //     { tag: "Food Delivery Ui Kit" },
+  //     { tag: "Restaurant Industry" },
+  //     { tag: "Prototyping" },
+  //     { tag: "Custom App Design" },
+  //   ],
+  // },
   uiux10: {
     id: "u10",
-    pageName: "Food Delivery App",
+    pageName: "CasualChic- Casual Wear Store",
     menuName: "Ui/Ux Projects",
-    slug: "food-delivery-app",
+    slug: "casual-chic",
     ProjectLinks: {
       FigmaDesignLink:
-        "https://www.figma.com/file/mxGgaGNGBk4UYv1foP0O4M/EatExpress-Food-Delivery-Customer-App?type=design&node-id=63%3A8445&mode=design&t=hCy0IwFDR5Im9Nct-1",
+        "https://www.figma.com/file/kgrvJ33U8tGgQrB7a8zBm5/ultras-casual-wear-ecommerce-figma-template?type=design&node-id=2%3A2&mode=design&t=BOsdJIVKogoeL4R9-1",
       FigmaDesignEmmbedLink:
-        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmxGgaGNGBk4UYv1foP0O4M%2FEatExpress-Food-Delivery-Customer-App%3Ftype%3Ddesign%26node-id%3D63%253A8445%26mode%3Ddesign%26t%3DhCy0IwFDR5Im9Nct-1",
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkgrvJ33U8tGgQrB7a8zBm5%2Fultras-casual-wear-ecommerce-figma-template%3Ftype%3Ddesign%26node-id%3D2%253A2%26mode%3Ddesign%26t%3DBOsdJIVKogoeL4R9-1",
       FigmaPrototypeLink:
-        "https://www.figma.com/proto/mxGgaGNGBk4UYv1foP0O4M/EatExpress-Food-Delivery-Customer-App?page-id=63%3A8445&type=design&node-id=104-11365&viewport=457%2C72%2C0.05&t=HmVvV7Ec3t7HGrvJ-1&scaling=min-zoom&starting-point-node-id=104%3A11365&show-proto-sidebar=1&mode=design",
+        "https://www.figma.com/proto/kgrvJ33U8tGgQrB7a8zBm5/ultras-casual-wear-ecommerce-figma-template?page-id=2%3A2&type=design&node-id=2-16&viewport=-74%2C1454%2C0.26&t=GiF8dw9hznw4PGHy-1&scaling=min-zoom&mode=design",
       FigmaPrototypeEmbbedLink:
-        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmxGgaGNGBk4UYv1foP0O4M%2FEatExpress-Food-Delivery-Customer-App%3Fpage-id%3D63%253A8445%26type%3Ddesign%26node-id%3D104-11365%26viewport%3D457%252C72%252C0.05%26t%3DHmVvV7Ec3t7HGrvJ-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D104%253A11365%26show-proto-sidebar%3D1%26mode%3Ddesign",
+        "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FkgrvJ33U8tGgQrB7a8zBm5%2Fultras-casual-wear-ecommerce-figma-template%3Fpage-id%3D2%253A2%26type%3Ddesign%26node-id%3D2-16%26viewport%3D-74%252C1454%252C0.26%26t%3DGiF8dw9hznw4PGHy-1%26scaling%3Dmin-zoom%26mode%3Ddesign",
     },
     description: [
       {
         descriptionTitle:
-          "🍽️ Food Delivery App: Partnering for Culinary Convenience",
+          "👗 CasualChic - Elevating Casual Wear to New Heights",
         descriptionContent:
-          "Experience gastronomic delight through the Food Delivery App, meticulously divided into two distinct modules catering to both partners and customers. The first module delves into the intuitive design of the Food Delivery Partner app, offering seamless interactions for those bringing meals to your doorstep. The second module is dedicated to the Food Delivery Customer app, ensuring a delightful experience for those seeking culinary indulgence.",
+          "Step into the world of CasualChic, where fashion meets comfort with a touch of elegance. Our Casual Wear Store is meticulously designed to offer you a curated collection that effortlessly blends relaxed style with a hint of sophistication. Explore a range of clothing and accessories that redefine casual fashion, making every day a fashionable and comfortable affair.",
       },
       {
-        descriptionTitle:
-          "🚀 Food Delivery App: Crafting Seamless Customer Experience",
+        descriptionTitle: "🌟 Uncompromising Style and Quality",
         descriptionContent:
-          "This design endeavor goes beyond the ordinary, incorporating a host of advanced features to elevate user engagement. With a comprehensive design system at its core, the app boasts auto-layout functionality, effortlessly adapting to various devices. Every aspect of food delivery is covered, ensuring a fluid and immersive experience. The integration of high-quality images and icons adds visual allure, while component variants with specific properties facilitate personalization.",
+          "At CasualChic, we believe that you don't have to sacrifice style for comfort. Our collection features carefully selected pieces that are not only on-trend but also made from high-quality materials. Whether you're dressing for a casual day out or a laid-back evening, you'll find the perfect outfit that allows you to express your style while feeling comfortable.",
       },
       {
-        descriptionTitle:
-          "🎨 Food Delivery App: Design Delights and User-Friendly Feasts",
+        descriptionTitle: "🛍️ Your One-Stop Destination for Effortless Fashion",
         descriptionContent:
-          "The app doesn't just stand as a design masterpiece; it's a collaborative playground. Easy customization allows swift modifications across the design, making it developer, designer, and user-friendly. With a focus on the best user experience, the app is fully prototyped, offering interactive screens that provide a glimpse into the app's functionality.",
+          "Browse through our catalog of casual wear essentials, from cozy loungewear to chic everyday outfits. Our user-friendly website ensures a seamless shopping experience, and our commitment to design excellence means you'll enjoy browsing our collections just as much as you'll love wearing our products.",
       },
     ],
     buttonsGroup: {
@@ -208,11 +255,11 @@ const UiUxProjectPageData = {
     },
     socialShareUrl: "https://tzcreation.in/ui-ux-project/uiux10",
     tags: [
-      { tag: "Food Delivery" },
-      { tag: "Food Delivery Ui Kit" },
-      { tag: "Restaurant Industry" },
-      { tag: "Prototyping" },
-      { tag: "Custom App Design" },
+      { tag: "E Commerce" },
+      { tag: "Online Store" },
+      { tag: "Garment Store" },
+      { tag: "Single Page Design" },
+      { tag: "Custom Store Design" },
     ],
   },
   uiux11: {

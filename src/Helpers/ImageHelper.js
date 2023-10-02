@@ -204,6 +204,7 @@ import SOSEmergencyAppCover from "../Assets/Images/Portfolio/UiUx/SOS-Emergency-
 import TabrezDalExpertProductDesignerCover from "../Assets/Images/Portfolio/UiUx/Tabrez-Dal-Expert-Product-Designer-Cover.webp";
 import TezHUBCover from "../Assets/Images/Portfolio/UiUx/TezHUB-Cover.webp";
 import EatExpress from "../Assets/Images/Portfolio/UiUx/EatExpress.webp";
+import CasualChic from "../Assets/Images/Portfolio/UiUx/CasualChic.webp";
 import A1VIsasPassportServicesLandingPage from "../Assets/Images/Portfolio/UiUx/A1-Visas-Passport-Photo-Service-Landing-Page-Cover.webp";
 import Artyss from "../Assets/Images/Portfolio/UiUx/Artyss Cover.webp";
 import EdXploreAdminPanelMobileVersion from "../Assets/Images/Portfolio/UiUx/EdXplore-Admin-Panel-_Mobile-Version-Cover.webp";
@@ -503,6 +504,7 @@ const ImageHelper = {
   TabrezDalExpertProductDesignerCover,
   TezHUBCover,
   EatExpress,
+  CasualChic,
   A1VIsasPassportServicesLandingPage,
   Artyss,
   EdXploreAdminPanelMobileVersion,
