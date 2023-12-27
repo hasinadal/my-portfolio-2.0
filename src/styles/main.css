@@ -2632,7 +2632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 767px) {
   .banner-right {
-    min-width: 500px;
+    min-width: 100%;
     max-width: 100%;
     margin-top: 80px;
     margin-left: auto;
@@ -2966,6 +2966,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-clamp: 3;
   -webkit-box-orient: vertical;
   color: grey;
+}
+
+.ContentHolder {
+  width: 100%;
 }
 
 @media screen and (max-width: 768px) {

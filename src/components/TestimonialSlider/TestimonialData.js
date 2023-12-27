@@ -57,8 +57,7 @@ const TestimonialData = [
     avatar:
       "https://media.licdn.com/dms/image/D4E03AQEFwVYLby9YvA/profile-displayphoto-shrink_100_100/0/1685436020851?e=1709164800&v=beta&t=1OF6JfB98XAchOS2JZcdwVBV_3f4SfobG-0P3MQBpBc",
     name: "Zak Furness",
-    review:
-      "Superb graphic design by TZ Creation. Highly recommended! Their designs have made our brand stand out in a crowded market.",
+    review: "Awaiting for Review ...",
     sourceUrl:
       "https://www.linkedin.com/in/tabrezdal/details/recommendations/?detailScreenTabIndex=0",
   },
