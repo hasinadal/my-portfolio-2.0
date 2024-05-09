@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '20.13.0' # or specify the version you're using locally
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
       - name: Build
         run: npm run build
       - name: Archive Production Artifact
