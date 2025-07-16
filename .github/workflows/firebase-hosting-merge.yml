@@ -14,11 +14,18 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+      - name: Debug Workflow Context
+        run: |
+          echo "Triggering Workflow Run ID: ${{ github.event.workflow_run.id }}"
+          echo "Triggering Workflow Name: ${{ github.event.workflow_run.name }}"
+          echo "Triggering Workflow Conclusion: ${{ github.event.workflow_run.conclusion }}"
       - name: Download Build Artifact
         uses: actions/download-artifact@v4
         with:
           name: build
           path: build
+      - name: Verify Downloaded Artifact
+        run: ls -la build || echo "Build artifact not found after download"
       - name: Deploy to Firebase
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
