@@ -30,4 +30,4 @@ jobs:
       - name: Confirm Artifact Upload
         run: echo "Artifact upload completed"
       - name: Log Build Run ID
-        run: echo "Build Run ID- ${{ github.run_id }}"
+        run: echo "Build Run ID - ${{ github.run_id }}"
