@@ -1,4 +1,4 @@
-name: Firebase Deployment Build
+name: Firebase Build and Deploy
 on:
   push:
     branches:
@@ -31,3 +31,23 @@ jobs:
         run: echo "Artifact upload completed"
       - name: Log Build Run ID
         run: echo "Build Run ID - ${{ github.run_id }}"
+      - name: Download Build Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build
+          path: build
+      - name: Verify Downloaded Artifact
+        run: ls -la build || echo "Build artifact not found after download"
+      - name: Debug Deployment Directory
+        run: |
+          echo "Current directory contents:"
+          ls -la
+          echo "Build directory contents:"
+          ls -la build || echo "Build directory not found"
+      - name: Deploy to Firebase
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          channelId: live
+          projectId: tabrez-portfolio-2
