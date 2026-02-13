@@ -4,11 +4,10 @@ export const HeroSectionData = {
   introStatingLine: "This is me",
   name: "Tabrez Dal",
   introLine:
-    "a Senior Software Engineer and Product Designer with over 5 years of experience, bridging pixels and code for best user experiences.",
+    "Senior Software Engineer building scalable frontend systems and delivering product-driven user experiences.",
   buttonData: {
     name: "Download CV",
-    url: "https://drive.google.com/file/d/1mkygAJYG78oFCttnbr6dSDnFqeMQoiGA/view?usp=drivesdk",
-    url2: "https://drive.google.com/file/d/1mkygAJYG78oFCttnbr6dSDnFqeMQoiGA/view?usp=drivesdk",
+    url: "https://drive.google.com/file/d/1BTrwtxWpF9m3OyaFJdjhcZIKaQxSzWGX/view?usp=drive_link",
   },
   heroImage: ImageHelper.HeroImage,
 };
