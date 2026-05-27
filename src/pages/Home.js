@@ -9,6 +9,7 @@ import Header from "../layouts/Header/Header";
 import ProjectsSection from "../components/ProjectsSection/ProjectsSection";
 import CtaSection from "../components/CtaSection/CtaSection";
 import TestimonialSlider from "../components/TestimonialSlider/TestimonialSlider";
+import FeaturedProjectsSection from "../components/FeaturedProjectsSection/FeaturedProjectsSection";
 
 const Home = () => {
   useEffect(() => {
@@ -24,6 +25,7 @@ const Home = () => {
       <ToolsSection />
       <TechnologiesSection />
       <CtaSection />
+      <FeaturedProjectsSection />
       <ProjectsSection />
       <TestimonialSlider />
       <Footer />

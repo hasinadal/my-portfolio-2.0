@@ -8,6 +8,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import NoPageFound from "./pages/NoPageFound";
 import UiUxProjectPage from "./pages/UiUxProjectPage";
+import CaseStudyPage from "./pages/CaseStudyPage";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           exact
           element={<UiUxProjectPage />}
         ></Route>
+        <Route path="case-study/:slug" exact element={<CaseStudyPage />}></Route>
         <Route path="*" exact element={<NoPageFound />}></Route>
       </Routes>
     </div>
