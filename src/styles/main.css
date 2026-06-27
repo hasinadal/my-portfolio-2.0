@@ -1378,7 +1378,7 @@ h6 {
 /* Back to top buttton ends */
 #nav-menu-container {
 
-  width: 40%;
+  width: fit-content;
 
 }
 #nav-menu-container .nav-menu.nav-menu-right {
@@ -1460,10 +1460,47 @@ h6 {
   box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
 
 }
+#header .nav-menu .navlink {
+
+  display: flex;
+  align-items: center;
+
+}
+#header .nav-menu .navlink + .navlink {
+
+  margin-left: 4px;
+
+}
 #header .nav-menu .navlink a {
 
   color: var(--color-text-near-black);
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 10px 12px;
+  line-height: 1.2;
+
+}
+#mobile-nav .navlink {
+
+  display: flex;
+  align-items: center;
+
+}
+#mobile-nav .navlink + .navlink {
+
+  margin-top: 4px;
+
+}
+#mobile-nav .navlink a {
+
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 10px 14px;
+  width: 100%;
+  line-height: 1.2;
 
 }
 .back-button i::before {
