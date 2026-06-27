@@ -59,6 +59,9 @@ const HeroSection = () => {
               className="img-fluid"
               src={HeroSectionData?.heroImage}
               alt="Hero"
+              loading="eager"
+              width={400}
+              height={500}
             />
           </motion.div>
         </div>

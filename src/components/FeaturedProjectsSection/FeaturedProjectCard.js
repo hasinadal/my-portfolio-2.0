@@ -26,6 +26,9 @@ const FeaturedProjectCard = ({ project, index }) => {
             src={project.coverImage}
             alt={project.title}
             draggable="false"
+            loading="lazy"
+            width={800}
+            height={500}
           />
           <div className="fp-card__overlay">
             <p className="fp-card__overlay-role">{project.role}</p>

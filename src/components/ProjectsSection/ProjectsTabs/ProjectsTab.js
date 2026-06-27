@@ -41,6 +41,9 @@ const ProjectsTab = (props) => {
                     className="image-prop img-fluid"
                     src={item.image}
                     alt={item.caption}
+                    loading="lazy"
+                    width={600}
+                    height={400}
                   />
                 </div>
               ) : (
@@ -48,6 +51,9 @@ const ProjectsTab = (props) => {
                   className=" image-prop img-fluid"
                   src={item.image}
                   alt={item.caption}
+                  loading="lazy"
+                  width={600}
+                  height={400}
                 />
               )}
             </div>
