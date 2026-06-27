@@ -19,13 +19,15 @@ const AboutSection = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="col-lg-5 col-md-5 home-about-left"
           >
-            <div className="aboutImage"></div>
-            {/* <img
+            <img
               draggable="false"
               className="img-fluid aboutImage"
               src={AboutSectionData?.sectionImage}
-              alt=""
-            /> */}
+              alt="Tabrez in Black Suit"
+              width={261}
+              height={347}
+              loading="lazy"
+            />
           </motion.div>
           <motion.div
             variants={fadeUpLargeVariants}

@@ -13,7 +13,7 @@ const SingleToolSection = ({ toolName, toolLogo, index }) => {
           rotate: [360, -90, 0],
         }}
       >
-        <img draggable="false" src={toolLogo} alt={toolName} />
+        <img draggable="false" src={toolLogo} alt={toolName} width={50} height={50} loading="lazy" />
       </motion.div>
       <a href="#">
         <h4>{toolName}</h4>

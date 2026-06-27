@@ -20,7 +20,7 @@ const SingleTechnologySection = ({ techName, techLogo, featured, index }) => {
     >
       <div className="single-services">
         <span>
-          <img draggable="false" src={techLogo} alt={techName} />
+          <img draggable="false" src={techLogo} alt={techName} width={50} height={50} loading="lazy" />
         </span>
 
         <a href="#">

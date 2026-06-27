@@ -64,7 +64,7 @@ const TestimonialSlider = () => {
           {TestimonialData?.map((item, index) => (
             <div className="swiper-slide text-decoration-none" key={index}>
               <div className="ImgHolder">
-                <img src={item.avatar} alt={item.name} />
+                <img src={item.avatar} alt={item.name} width={80} height={80} loading="lazy" />
               </div>
               <a
                 className="ContentHolder"

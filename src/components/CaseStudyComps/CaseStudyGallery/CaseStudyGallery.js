@@ -64,6 +64,9 @@ const CaseStudyGallery = ({ project }) => {
                   src={img}
                   alt={`${project.title} screenshot ${index + 1}`}
                   draggable="false"
+                  width={800}
+                  height={600}
+                  loading="lazy"
                   style={{
                     width: "100%",
                     borderRadius: "10px",

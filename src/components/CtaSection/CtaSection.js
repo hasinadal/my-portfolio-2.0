@@ -43,6 +43,9 @@ const CtaSection = () => {
               src={ImageHelper.TzInSuit}
               className="img-fluid"
               alt="Tabrez in Black Suit"
+              width={261}
+              height={347}
+              loading="lazy"
             />
           </motion.div>
         </div>

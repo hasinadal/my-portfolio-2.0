@@ -60,6 +60,9 @@ const BeforeAfter = ({ items }) => {
                   alt={pair.before.caption || "Before"}
                   className="baf-card__img"
                   draggable="false"
+                  width={800}
+                  height={600}
+                  loading="lazy"
                 />
                 {pair.before.caption && (
                   <div className="baf-card__caption">
@@ -82,6 +85,9 @@ const BeforeAfter = ({ items }) => {
                   alt={pair.after.caption || "After"}
                   className="baf-card__img"
                   draggable="false"
+                  width={800}
+                  height={600}
+                  loading="lazy"
                 />
                 {pair.after.caption && (
                   <div className="baf-card__caption">
@@ -126,6 +132,8 @@ const ScreenGallery = ({ screens, title, subtitle }) => {
             className="csv-lightbox__img"
             onClick={(e) => e.stopPropagation()}
             draggable="false"
+            width={1200}
+            height={800}
           />
         </div>
       )}
@@ -158,6 +166,9 @@ const ScreenGallery = ({ screens, title, subtitle }) => {
                   src={screen.image}
                   alt={screen.label || `Screen ${index + 1}`}
                   draggable="false"
+                  width={400}
+                  height={300}
+                  loading="lazy"
                 />
                 <div className="csv-gallery__item-overlay">
                   <span>View</span>
@@ -404,7 +415,7 @@ const MobileShowcase = ({ screens, title, subtitle }) => {
             >
               <div className="csv-phone-frame__notch" />
               <div className="csv-phone-frame__screen">
-                <img src={screen.image} alt={screen.label || `Screen ${index + 1}`} />
+                <img src={screen.image} alt={screen.label || `Screen ${index + 1}`} width={300} height={600} loading="lazy" />
               </div>
             </motion.div>
           ))}

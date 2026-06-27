@@ -144,6 +144,9 @@ const CaseStudyHero = ({ project }) => {
             alt={`${title} — cover`}
             className="csh-cover-img"
             draggable="false"
+            width={1200}
+            height={675}
+            loading="lazy"
           />
         </motion.div>
       )}

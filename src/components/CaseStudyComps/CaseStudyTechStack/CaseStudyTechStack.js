@@ -42,6 +42,9 @@ const TechStackPills = ({ groups, title, subtitle }) => {
                       alt={item.name}
                       className="cts-pill__icon"
                       draggable="false"
+                      width={32}
+                      height={32}
+                      loading="lazy"
                     />
                   )}
                   {item.faIcon && (
