@@ -1,70 +1,147 @@
-# Getting Started with Create React App
+# Tabrez Dal — Portfolio
+### Product Engineer — Software & UX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personal portfolio and case study showcase built with React.  
+Live at **[tabrezdal.com](https://tabrezdal.com)**
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+A single-page React application presenting my work across software engineering,
+UX/UI design, and product thinking. The site features detailed case studies,
+a filterable project grid, testimonials, and direct booking via Calendly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Designed and developed entirely by me — from information architecture and visual
+design through to implementation, deployment, and ongoing iteration.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Pages & Sections
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Page | Description |
+|---|---|
+| **Home** | Hero, Skills, Tools, Technologies, Featured Work, Projects, Testimonials, CTA |
+| **UI/UX Projects** | Filterable grid of UX/UI design work with category tabs |
+| **Case Studies** | In-depth project breakdowns — problem, process, outcome |
+| **Projects Grid** | Full portfolio filterable by discipline |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Category | Technology |
+|---|---|
+| Framework | React 18 (Create React App) |
+| Routing | React Router v6 |
+| Animation | Framer Motion |
+| Styling | CSS Modules + Bootstrap 5 + CSS Custom Properties |
+| Design Tokens | CSS custom properties (`src/styles/tokens.css`) |
+| Hosting | Firebase Hosting |
+| Version Control | GitHub |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Architecture Highlights
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Design Token System
+All colors, spacing, typography weights, border-radius, shadows, transitions,
+and z-index values are defined as CSS custom properties in a single token file:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+src/styles/tokens.css
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Imported once in `index.css` — available globally across all component styles
+with no per-component imports needed.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Shared Animation Variants
+Framer Motion animation variants are centralised in:
 
-## Learn More
+```
+src/utils/animationVariants.js
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+16 named exports (`fadeUpVariants`, `fadeLeftVariants`, `scaleUpVariants`, etc.)
+used consistently across all animated components. Intentional one-off variants
+(unique distances, delay-based stagger) are kept local where appropriate.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Project Data Layer
+All portfolio content is data-driven — projects, case studies, testimonials,
+technologies, and skills are defined in structured JS data files under:
 
-### Code Splitting
+```
+src/Data/
+src/Helpers/
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Components consume data via props — no content is hardcoded in JSX.
 
-### Analyzing the Bundle Size
+### Component Structure
+```
+src/
+├── Assets/               # Images, icons, fonts
+├── components/           # Feature components (sections, case study parts)
+├── sharedComponents/     # Reusable UI (buttons, social links, cards)
+├── layouts/              # Header, Footer, page wrappers
+├── pages/                # Route-level page components
+├── Data/                 # Portfolio content data files
+├── Helpers/              # Image imports, constants, utilities
+├── styles/               # Global styles and token file
+└── utils/                # Shared logic (animationVariants.js)
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Prerequisites
+- Node.js 16+
+- npm or yarn
 
-### Advanced Configuration
+### Install & Run
+```bash
+git clone https://github.com/tabrezdal/my-portfolio-2.0.git
+cd my-portfolio-2.0
+npm install
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Opens at `http://localhost:3000`
 
-### Deployment
+### Build
+```bash
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Deploy
+Hosted on Firebase. Deploy via:
+```bash
+firebase deploy
+```
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Design Decisions
+
+**CSS custom properties over a CSS-in-JS library** — keeps styling portable,
+avoids runtime overhead, and works cleanly alongside Bootstrap without conflicts.
+
+**Framer Motion for animations** — scroll-triggered entrance animations use
+`whileInView` with `once: true` to avoid re-triggering. All variants are
+centralised to keep animation behaviour consistent and easy to update globally.
+
+**Data-driven content layer** — separating content from presentation means
+updating a project, testimonial, or technology requires editing one data file,
+not hunting through JSX.
+
+**CRA over Next.js (current)** — deliberately kept for now. A Next.js migration
+is planned for a future phase to gain SSR, SSG, and improved SEO capabilities.
+
+---
+
+## Contact
+
+**Portfolio:** [tabrezdal.com](https://tabrezdal.com)  
+**Schedule a call:** [calendly.com/tabrezdal](https://calendly.com/tabrezdal)  
+**LinkedIn:** [linkedin.com/in/tabrezdal](https://linkedin.com/in/tabrezdal)
