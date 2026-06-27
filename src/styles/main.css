@@ -938,6 +938,7 @@ h6 {
 
   margin-bottom: 30px;
   /* max-width: 445px; */
+  color: #555555;
 
 }
 .home-about-right .primary-btn:hover {
@@ -1525,6 +1526,7 @@ h6 {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
+  color: #555555;
 
 }
 @media screen and (min-width: 768px) {
@@ -1540,6 +1542,7 @@ h6 {
     font-size: 1vw;
     font-weight: 400;
     line-height: auto;
+    color: #555555;
   
 }
 }
@@ -1694,8 +1697,8 @@ h6 {
   display: inline-flex;
   align-items: center;
   padding: 8px 28px;
-  border: 2px solid #0378b8;
-  color: #0378b8;
+  border: 2px solid #025d8f;
+  color: #025d8f;
   background: transparent;
   font-size: 14px;
   font-weight: 600;
@@ -1705,7 +1708,7 @@ h6 {
 }
 
 .hero-cta-secondary:hover {
-  background: #0378b8;
+  background: #025d8f;
   color: #ffffff;
 }
 
