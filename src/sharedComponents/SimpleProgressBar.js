@@ -7,6 +7,7 @@ function SimpleProgressbar(props) {
       now={endValue}
       label={label ? `${label} — ${endValue}%` : undefined}
       visuallyHidden
+      aria-label={label ? `${label} — ${endValue}%` : undefined}
       style={{ maxHeight: "10px" }}
     />
   );
