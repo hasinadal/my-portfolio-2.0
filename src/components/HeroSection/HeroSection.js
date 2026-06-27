@@ -29,11 +29,21 @@ const HeroSection = () => {
             <p className="text-justify location-line">
               <i className="fa fa-map-pin" style={{color: "#555"}}></i> {HeroSectionData.location}
             </p>
-            <PrimaryButton
-              name={HeroSectionData?.buttonData.name}
-              url={HeroSectionData?.buttonData.url}
-              iconClass="fa fa-download"
-            />
+            <div className="hero-cta-group">
+              <PrimaryButton
+                name={HeroSectionData?.buttonData.name}
+                url={HeroSectionData?.buttonData.url}
+                iconClass="fa fa-download"
+              />
+              <a
+                href="https://calendly.com/tabrez-dal"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hero-cta-secondary"
+              >
+                Schedule a Call
+              </a>
+            </div>
           </motion.div>
           <div className="col-lg-1 col-md-1"></div>
 

@@ -15,7 +15,7 @@ export const AboutSectionData = {
   },
    buttonData2: {
     name: "Schedule a Meeting",
-    url: "https://calendly.com/tabrez-dal/recruiter-intro-dubai",
+    url: "https://calendly.com/tabrez-dal",
   },
   sectionImage: ImageHelper?.AboutImage,
 };
