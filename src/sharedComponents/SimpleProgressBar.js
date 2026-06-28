@@ -1,15 +1,19 @@
-import ProgressBar from "react-bootstrap/ProgressBar";
+import React from "react";
 
 function SimpleProgressbar(props) {
-  const { endValue, label } = props;
+  const { skill, percetage } = props;
   return (
-    <ProgressBar
-      now={endValue}
-      label={label ? `${label} — ${endValue}%` : undefined}
-      visuallyHidden
-      aria-label={label ? `${label} — ${endValue}%` : undefined}
-      style={{ maxHeight: "10px" }}
-    />
+    <div className="progress" style={{ maxHeight: '10px' }}>
+      <div
+        role="progressbar"
+        className="progress-bar"
+        aria-label={`${skill} — ${percetage}%`}
+        aria-valuenow={percetage}
+        aria-valuemin={0}
+        aria-valuemax={100}
+        style={{ width: `${percetage}%` }}
+      />
+    </div>
   );
 }
 
