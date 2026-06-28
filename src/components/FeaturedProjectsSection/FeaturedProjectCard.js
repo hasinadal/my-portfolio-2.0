@@ -42,7 +42,7 @@ const FeaturedProjectCard = ({ project, index }) => {
             <span className="fp-card__category">{project.category}</span>
             <span className="fp-card__year">{project.year}</span>
           </div>
-          <h4 className="fp-card__title">{project.title}</h4>
+          <p className="fp-card__title">{project.title}</p>
           <p className="fp-card__desc">{project.shortDescription}</p>
           <div className="fp-card__tags">
             {project.tags.map((tag) => (
