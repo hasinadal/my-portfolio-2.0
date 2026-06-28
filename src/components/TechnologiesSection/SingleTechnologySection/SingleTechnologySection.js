@@ -23,9 +23,7 @@ const SingleTechnologySection = ({ techName, techLogo, featured, index }) => {
           <img draggable="false" src={techLogo} alt={techName} width={50} height={50} loading="lazy" />
         </span>
 
-        <a href="#">
-          <p>{techName}</p>
-        </a>
+        <p>{techName}</p>
       </div>
     </motion.div>
   );
