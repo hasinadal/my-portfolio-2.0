@@ -1,11 +1,11 @@
-import AkshayShetty from '../../Assets/Images/testimonials/akshay-shetty.jpg';
-import ShahzaibArshad from '../../Assets/Images/testimonials/shahzaib-arshad.jpg';
-import MalvikaSingh from '../../Assets/Images/testimonials/malvika-singh.jpg';
+import AkshayShetty from '../../Assets/Images/testimonials/akshay-shetty.webp';
+import ShahzaibArshad from '../../Assets/Images/testimonials/shahzaib-arshad.webp';
+import MalvikaSingh from '../../Assets/Images/testimonials/malvika-singh.webp';
 import ZakFurness from '../../Assets/Images/testimonials/zak-furness.webp';
-import ViralPatel from '../../Assets/Images/testimonials/viral-patel.jpg';
-import LeeAnthonyPinn from '../../Assets/Images/testimonials/lee-anthony-pinn.jpg';
-import MohammedOmerFarooq from '../../Assets/Images/testimonials/mohammed-omer-farooq.jpg';
-import KishanMajeethiya from '../../Assets/Images/testimonials/kishan-majeethiya.jpg';
+import ViralPatel from '../../Assets/Images/testimonials/viral-patel.webp';
+import LeeAnthonyPinn from '../../Assets/Images/testimonials/lee-anthony-pinn.webp';
+import MohammedOmerFarooq from '../../Assets/Images/testimonials/mohammed-omer-farooq.webp';
+import KishanMajeethiya from '../../Assets/Images/testimonials/kishan-majeethiya.webp';
 
 const TestimonialData = [
   {
