@@ -12,6 +12,7 @@ import CtaSection from "../components/CtaSection/CtaSection";
 import TestimonialSlider from "../components/TestimonialSlider/TestimonialSlider";
 import FeaturedProjectsSection from "../components/FeaturedProjectsSection/FeaturedProjectsSection";
 import StructuredData from "../components/StructuredData/StructuredData";
+import ExperienceSection from "../components/ExperienceSection/ExperienceSection";
 
 const Home = () => {
   useEffect(() => {
@@ -39,6 +40,7 @@ const Home = () => {
       <main id="main-content">
         <HeroSection />
         <AboutSection />
+        <ExperienceSection />
         <SkillsSection />
         <ToolsSection />
         <TechnologiesSection />

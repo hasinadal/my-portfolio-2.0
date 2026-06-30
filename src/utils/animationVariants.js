@@ -193,3 +193,15 @@ export const fadeIn = (delay = 0) => ({
   animate: "visible",
   transition: { duration: 0.7, delay },
 });
+
+// ─── Stagger Container ───────────────────────────────────────────────────────
+// Used for parent containers with staggered children animations
+export const staggerContainerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.15,
+    },
+  },
+};

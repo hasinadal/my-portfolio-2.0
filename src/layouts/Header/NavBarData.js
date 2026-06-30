@@ -11,21 +11,26 @@ export const NavLinkData = [
   },
   {
     id: 3,
+    name: "Experience",
+    linkTo: "experience",
+  },
+  {
+    id: 4,
     name: "Skills",
     linkTo: "skills",
   },
   {
-    id: 4,
+    id: 5,
     name: "Tools",
     linkTo: "tools",
   },
   {
-    id: 5,
+    id: 6,
     name: "Tech",
     linkTo: "technologies",
   },
   {
-    id: 6,
+    id: 7,
     name: "Projects",
     linkTo: "projects",
   },
