@@ -36,13 +36,12 @@
 .exp-list__row {
   display: grid;
   grid-template-columns: 1fr 180px;
-  /* content | date only */
   gap: var(--space-8);
   align-items: start;
   padding: var(--space-6) 0 var(--space-4);
   border-bottom: 1px solid #222;
   position: relative;
-  transition: padding-left 0.25s ease;
+  transition: padding-left 0.25s ease, opacity 0.25s ease;
 }
 
 .exp-list__row:hover,
@@ -52,6 +51,32 @@
 
 .exp-list__row--expanded {
   border-bottom: none;
+}
+
+/* ─── Hover dimming ───────────────────────────────────────────────────────── */
+.exp-list:hover .exp-list__row {
+  opacity: 0.35;
+}
+
+.exp-list:hover .exp-list__row:hover {
+  opacity: 1;
+}
+
+/* ─── Hover color accents ─────────────────────────────────────────────────── */
+.exp-list__row:hover .exp-list__company {
+  color: #0378b8;
+}
+
+.exp-list__row:hover .exp-list__tags {
+  color: #62bdfc;
+}
+
+.exp-list__row:hover .exp-list__period {
+  color: #aaaaaa;
+}
+
+.exp-list__row:hover .exp-cta-btn {
+  color: #0378b8;
 }
 
 /* ─── Floating photos ───────────────────────────────────────────────────── */
@@ -96,19 +121,11 @@
 /* Date — 16px, brighter default */
 .exp-list__period {
   font-size: 1rem;
-  /* 16px */
-  color: #5a5a5a;
-  /* brighter than before */
+  color: #888;
   text-align: right;
   white-space: nowrap;
   transition: color 0.25s ease;
 }
-
-.exp-list__row:hover .exp-list__period,
-.exp-list__row--active .exp-list__period {
-  color: #999999;
-}
-
 /* ─── Role content ──────────────────────────────────────────────────────── */
 .exp-list__right {
   display: flex;
@@ -119,70 +136,45 @@
 /* Job title — 36px default, grows on hover */
 .exp-list__role {
   font-size: 1.2rem;
-  /* ~36px */
   font-weight: var(--font-semibold);
-  color: #b0b0b0;
-  /* readable default, not washed out */
+  color: #d8d8d8;
   margin: 0 0 var(--space-1);
   line-height: 1;
   transition: color 0.25s ease, font-size 0.25s ease;
 }
 
+.exp-list__role strong {
+  font-weight: var(--font-bold);
+  color: #ffffff;
+}
+
 .exp-list__row:hover .exp-list__role,
 .exp-list__row--active .exp-list__role {
   font-size: 1.5rem;
-  /* ~42px on hover */
-  color: #ffffff;
-}
-
-.exp-list__role strong {
-  font-weight: var(--font-bold);
-  color: #c8c8c8;
-  /* slightly brighter than role text */
-}
-
-.exp-list__row:hover .exp-list__role strong,
-.exp-list__row--active .exp-list__role strong {
-  color: #ffffff;
 }
 
 /* Company name — 22px */
 .exp-list__company {
   font-size: 1rem;
-  /* ~22px */
   font-weight: var(--font-regular);
-  color: #6a6a6a;
+  color: #999;
   transition: color 0.25s ease;
-}
-
-.exp-list__row:hover .exp-list__company,
-.exp-list__row--active .exp-list__company {
-  color: #0378b8;
 }
 
 /* "at" connector */
 .exp-list__at {
   font-size: 1rem;
   font-weight: var(--font-regular);
-  color: #4a4a4a;
+  color: #666;
 }
 
 /* Skills/tags — 18px */
 .exp-list__tags {
   font-size: 0.8rem;
-  /* ~18px */
-  color: #2d8abf;
-  /* 15-20% brighter than before */
-  opacity: 0.85;
+  color: #4ba3d4;
   margin: var(--space-2) 0 0;
   line-height: 1;
-  transition: opacity 0.25s ease;
-}
-
-.exp-list__row:hover .exp-list__tags,
-.exp-list__row--active .exp-list__tags {
-  opacity: 1;
-  color: #62bdfc;
+  transition: color 0.25s ease;
 }
 
 /* Inline text CTA — below tags */
@@ -197,16 +189,10 @@
   cursor: pointer;
   font-size: var(--text-sm);
   font-weight: var(--font-semibold);
-  color: #555;
+  color: #666;
   letter-spacing: 0.02em;
   transition: color 0.2s ease, letter-spacing 0.2s ease;
   outline: none;
-}
-
-.exp-cta-btn:hover,
-.exp-list__row:hover .exp-cta-btn {
-  color: #0378b8;
-  letter-spacing: 0.05em;
 }
 
 .exp-cta-btn--open {
@@ -248,7 +234,6 @@
   color: #0378b8;
   font-size: var(--text-base);
   margin-top: 1px;
-  opacity: 0.7;
 }
 
 .exp-accordion__bullet:hover {
