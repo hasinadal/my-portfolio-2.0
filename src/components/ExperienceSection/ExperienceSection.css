@@ -184,7 +184,7 @@
 .exp-list__at {
   font-size: 1rem;
   font-weight: var(--font-regular);
-  color: #666;
+  color: #868686;
 }
 
 /* Skills/tags — 18px */
@@ -208,7 +208,7 @@
   cursor: pointer;
   font-size: var(--text-sm);
   font-weight: var(--font-semibold);
-  color: #666;
+  color: #868686;
   letter-spacing: 0.02em;
   transition: color 0.2s ease, letter-spacing 0.2s ease;
   outline: none;
